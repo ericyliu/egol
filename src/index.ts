@@ -1,8 +1,4 @@
-import * as brain from 'brain.js';
-import { promisify } from 'util';
-import { appendFile } from 'fs';
-import { times } from 'lodash';
-import { World } from '../src/game';
+import newGame from '../src/game';
 
 // provide optional config object, defaults shown.
 export const config = {
@@ -13,12 +9,6 @@ export const config = {
   learningRate: 0.01,
   decayRate: 0.999,
 };
-
-const newGame = (actorCount: number, steps: number) => {
-  const world = new World(actorCount);
-  times(steps, world.step);
-};
-
 newGame(10, 1000);
 
 // create a simple recurrent neural network
