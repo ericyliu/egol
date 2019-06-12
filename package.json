@@ -1,0 +1,20 @@
+{
+  "name": "erics-game-of-life",
+  "version": "1.0.0",
+  "description": "Machine Learned Evolution Game",
+  "main": "index.js",
+  "author": "Eric Liu",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.0.8",
+    "brain.js": "^1.6.1",
+    "lodash": "^4.17.11",
+    "promisify": "^0.0.3",
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}
