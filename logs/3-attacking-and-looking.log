@@ -1,0 +1,4322 @@
+===================================================
+State of World
+step: 0: food - 20
+
+0/sleepy_violet_hornet:
+lifespan - 0
+strength - 4
+children - 0
+
+1/clean_blush_urial:
+lifespan - 0
+strength - 4
+children - 0
+
+2/negative_azure_ox:
+lifespan - 0
+strength - 4
+children - 0
+negative_azure_ox looked at uncertain_salmon_donkey
+
+3/great_maroon_mule:
+lifespan - 0
+strength - 4
+children - 0
+
+4/creative_peach_crow:
+lifespan - 0
+strength - 4
+children - 0
+creative_peach_crow ran
+
+5/uptight_rose_perch:
+lifespan - 0
+strength - 4
+children - 0
+uptight_rose_perch ate
+
+6/excellent_aqua_rook:
+lifespan - 0
+strength - 4
+children - 0
+excellent_aqua_rook looked at intimate_lavender_perch
+
+7/dominant_silver_hornet:
+lifespan - 0
+strength - 4
+children - 0
+dominant_silver_hornet ran
+
+8/unchanged_amber_marmoset:
+lifespan - 0
+strength - 4
+children - 0
+unchanged_amber_marmoset looked at excellent_aqua_rook
+
+9/dry_chocolate_wildebeest:
+lifespan - 0
+strength - 4
+children - 0
+dry_chocolate_wildebeest ate
+
+10/orange_tan_peacock:
+lifespan - 0
+strength - 4
+children - 0
+orange_tan_peacock looked at light_purple_grouse
+
+11/christian_violet_dog:
+lifespan - 0
+strength - 4
+children - 0
+
+12/yellow_pink_bison:
+lifespan - 0
+strength - 4
+children - 0
+yellow_pink_bison ate
+
+13/hot_amber_bug:
+lifespan - 0
+strength - 4
+children - 0
+hot_amber_bug looked at creative_peach_crow
+
+14/notable_magenta_haddock:
+lifespan - 0
+strength - 4
+children - 0
+notable_magenta_haddock looked at actual_purple_donkey
+
+15/actual_purple_donkey:
+lifespan - 0
+strength - 4
+children - 0
+actual_purple_donkey looked at uncertain_salmon_donkey
+
+16/related_azure_wildfowl:
+lifespan - 0
+strength - 4
+children - 0
+related_azure_wildfowl looked at creative_peach_crow
+
+17/superb_pink_cobra:
+lifespan - 0
+strength - 4
+children - 0
+superb_pink_cobra looked at ambitious_aqua_minnow
+
+18/sweet_blue_guineafowl:
+lifespan - 0
+strength - 4
+children - 0
+
+19/sad_beige_damselfly:
+lifespan - 0
+strength - 4
+children - 0
+sad_beige_damselfly looked at orange_tan_peacock
+
+20/direct_pink_guppy:
+lifespan - 0
+strength - 4
+children - 0
+direct_pink_guppy looked at rational_turquoise_constrictor
+
+21/inland_amber_ferret:
+lifespan - 0
+strength - 4
+children - 0
+inland_amber_ferret ran
+
+22/ambitious_aqua_minnow:
+lifespan - 0
+strength - 4
+children - 0
+ambitious_aqua_minnow ate
+
+23/light_purple_grouse:
+lifespan - 0
+strength - 4
+children - 0
+light_purple_grouse ate
+
+24/rational_turquoise_constrictor:
+lifespan - 0
+strength - 4
+children - 0
+rational_turquoise_constrictor looked at hot_amber_bug
+
+25/numerous_tomato_piranha:
+lifespan - 0
+strength - 4
+children - 0
+numerous_tomato_piranha ran
+
+26/intimate_lavender_perch:
+lifespan - 0
+strength - 4
+children - 0
+
+27/sure_fuchsia_toad:
+lifespan - 0
+strength - 4
+children - 0
+sure_fuchsia_toad looked at superb_pink_cobra
+
+28/uncertain_salmon_donkey:
+lifespan - 0
+strength - 4
+children - 0
+uncertain_salmon_donkey looked at negative_azure_ox
+
+29/principal_moccasin_deer:
+lifespan - 0
+strength - 4
+children - 0
+
+===================================================
+State of World
+step: 1: food - 25
+
+0/sleepy_violet_hornet:
+lifespan - 1
+strength - 3
+children - 0
+
+1/clean_blush_urial:
+lifespan - 1
+strength - 3
+children - 0
+
+2/negative_azure_ox:
+lifespan - 1
+strength - 3
+children - 0
+negative_azure_ox ran
+
+3/great_maroon_mule:
+lifespan - 1
+strength - 3
+children - 0
+
+4/creative_peach_crow:
+lifespan - 1
+strength - 3
+children - 0
+creative_peach_crow ate
+
+5/uptight_rose_perch:
+lifespan - 1
+strength - 5
+children - 0
+uptight_rose_perch ate
+
+6/excellent_aqua_rook:
+lifespan - 1
+strength - 3
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 1
+strength - 3
+children - 0
+
+8/unchanged_amber_marmoset:
+lifespan - 1
+strength - 3
+children - 0
+unchanged_amber_marmoset ate
+
+9/dry_chocolate_wildebeest:
+lifespan - 1
+strength - 5
+children - 0
+dry_chocolate_wildebeest ate
+
+10/orange_tan_peacock:
+lifespan - 1
+strength - 3
+children - 0
+
+11/christian_violet_dog:
+lifespan - 1
+strength - 3
+children - 0
+christian_violet_dog ate
+
+12/yellow_pink_bison:
+lifespan - 1
+strength - 5
+children - 0
+yellow_pink_bison looked at actual_purple_donkey
+
+13/hot_amber_bug:
+lifespan - 1
+strength - 3
+children - 0
+hot_amber_bug ate
+
+14/notable_magenta_haddock:
+lifespan - 1
+strength - 3
+children - 0
+notable_magenta_haddock attacked actual_purple_donkey
+
+actual_purple_donkey died
+16/related_azure_wildfowl:
+lifespan - 1
+strength - 3
+children - 0
+related_azure_wildfowl ran
+
+17/superb_pink_cobra:
+lifespan - 1
+strength - 3
+children - 0
+superb_pink_cobra attacked ambitious_aqua_minnow
+
+18/sweet_blue_guineafowl:
+lifespan - 1
+strength - 3
+children - 0
+sweet_blue_guineafowl ran
+
+19/sad_beige_damselfly:
+lifespan - 1
+strength - 3
+children - 0
+sad_beige_damselfly ate
+
+20/direct_pink_guppy:
+lifespan - 1
+strength - 3
+children - 0
+direct_pink_guppy looked at numerous_tomato_piranha
+
+21/inland_amber_ferret:
+lifespan - 1
+strength - 3
+children - 0
+inland_amber_ferret looked at numerous_tomato_piranha
+
+22/ambitious_aqua_minnow:
+lifespan - 1
+strength - 2
+children - 0
+ambitious_aqua_minnow looked at notable_magenta_haddock
+
+23/light_purple_grouse:
+lifespan - 1
+strength - 5
+children - 0
+
+24/rational_turquoise_constrictor:
+lifespan - 1
+strength - 3
+children - 0
+
+25/numerous_tomato_piranha:
+lifespan - 1
+strength - 3
+children - 0
+
+26/intimate_lavender_perch:
+lifespan - 1
+strength - 3
+children - 0
+
+27/sure_fuchsia_toad:
+lifespan - 1
+strength - 3
+children - 0
+sure_fuchsia_toad ate
+
+28/uncertain_salmon_donkey:
+lifespan - 1
+strength - 3
+children - 0
+
+29/principal_moccasin_deer:
+lifespan - 1
+strength - 3
+children - 0
+
+===================================================
+State of World
+step: 2: food - 26
+
+0/sleepy_violet_hornet:
+lifespan - 2
+strength - 2
+children - 0
+
+1/clean_blush_urial:
+lifespan - 2
+strength - 2
+children - 0
+clean_blush_urial looked at ambitious_aqua_minnow
+
+2/negative_azure_ox:
+lifespan - 2
+strength - 2
+children - 0
+negative_azure_ox attacked uncertain_salmon_donkey
+
+3/great_maroon_mule:
+lifespan - 2
+strength - 2
+children - 0
+great_maroon_mule ran
+
+4/creative_peach_crow:
+lifespan - 2
+strength - 4
+children - 0
+
+5/uptight_rose_perch:
+lifespan - 2
+strength - 6
+children - 0
+uptight_rose_perch looked at inland_amber_ferret
+
+6/excellent_aqua_rook:
+lifespan - 2
+strength - 4
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 2
+strength - 2
+children - 0
+dominant_silver_hornet ate
+
+8/unchanged_amber_marmoset:
+lifespan - 2
+strength - 4
+children - 0
+unchanged_amber_marmoset looked at dominant_silver_hornet
+
+9/dry_chocolate_wildebeest:
+lifespan - 2
+strength - 6
+children - 0
+
+10/orange_tan_peacock:
+lifespan - 2
+strength - 2
+children - 0
+
+11/christian_violet_dog:
+lifespan - 2
+strength - 4
+children - 0
+christian_violet_dog looked at dry_chocolate_wildebeest
+
+12/yellow_pink_bison:
+lifespan - 2
+strength - 4
+children - 0
+
+13/hot_amber_bug:
+lifespan - 2
+strength - 4
+children - 0
+
+14/notable_magenta_haddock:
+lifespan - 2
+strength - 5
+children - 0
+notable_magenta_haddock attacked actual_purple_donkey
+
+16/related_azure_wildfowl:
+lifespan - 2
+strength - 2
+children - 0
+related_azure_wildfowl looked at great_maroon_mule
+
+17/superb_pink_cobra:
+lifespan - 2
+strength - 5
+children - 0
+superb_pink_cobra ate
+
+18/sweet_blue_guineafowl:
+lifespan - 2
+strength - 2
+children - 0
+sweet_blue_guineafowl ate
+
+19/sad_beige_damselfly:
+lifespan - 2
+strength - 4
+children - 0
+sad_beige_damselfly attacked orange_tan_peacock
+
+20/direct_pink_guppy:
+lifespan - 2
+strength - 2
+children - 0
+
+21/inland_amber_ferret:
+lifespan - 2
+strength - 2
+children - 0
+inland_amber_ferret ran
+
+22/ambitious_aqua_minnow:
+lifespan - 2
+strength - 1
+children - 0
+
+23/light_purple_grouse:
+lifespan - 2
+strength - 4
+children - 0
+
+24/rational_turquoise_constrictor:
+lifespan - 2
+strength - 2
+children - 0
+rational_turquoise_constrictor ate
+
+25/numerous_tomato_piranha:
+lifespan - 2
+strength - 2
+children - 0
+numerous_tomato_piranha ran
+
+26/intimate_lavender_perch:
+lifespan - 2
+strength - 2
+children - 0
+intimate_lavender_perch ran
+
+27/sure_fuchsia_toad:
+lifespan - 2
+strength - 4
+children - 0
+sure_fuchsia_toad looked at sweet_blue_guineafowl
+
+uncertain_salmon_donkey died
+29/principal_moccasin_deer:
+lifespan - 2
+strength - 2
+children - 0
+principal_moccasin_deer looked at sleepy_violet_hornet
+
+===================================================
+State of World
+step: 3: food - 31
+
+0/sleepy_violet_hornet:
+lifespan - 3
+strength - 1
+children - 0
+
+1/clean_blush_urial:
+lifespan - 3
+strength - 1
+children - 0
+clean_blush_urial attacked ambitious_aqua_minnow
+
+2/negative_azure_ox:
+lifespan - 3
+strength - 3
+children - 0
+negative_azure_ox ran
+
+3/great_maroon_mule:
+lifespan - 3
+strength - 1
+children - 0
+
+4/creative_peach_crow:
+lifespan - 3
+strength - 3
+children - 0
+
+5/uptight_rose_perch:
+lifespan - 3
+strength - 5
+children - 0
+
+6/excellent_aqua_rook:
+lifespan - 3
+strength - 5
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 3
+strength - 3
+children - 0
+dominant_silver_hornet ate
+
+8/unchanged_amber_marmoset:
+lifespan - 3
+strength - 3
+children - 0
+
+9/dry_chocolate_wildebeest:
+lifespan - 3
+strength - 5
+children - 0
+dry_chocolate_wildebeest ran
+
+orange_tan_peacock died
+11/christian_violet_dog:
+lifespan - 3
+strength - 3
+children - 0
+
+12/yellow_pink_bison:
+lifespan - 3
+strength - 3
+children - 0
+yellow_pink_bison ran
+
+13/hot_amber_bug:
+lifespan - 3
+strength - 3
+children - 0
+hot_amber_bug looked at great_maroon_mule
+
+14/notable_magenta_haddock:
+lifespan - 3
+strength - 4
+children - 0
+
+16/related_azure_wildfowl:
+lifespan - 3
+strength - 1
+children - 0
+related_azure_wildfowl looked at negative_azure_ox
+
+17/superb_pink_cobra:
+lifespan - 3
+strength - 6
+children - 0
+superb_pink_cobra attacked ambitious_aqua_minnow
+
+18/sweet_blue_guineafowl:
+lifespan - 3
+strength - 3
+children - 0
+
+19/sad_beige_damselfly:
+lifespan - 3
+strength - 5
+children - 0
+sad_beige_damselfly looked at christian_violet_dog
+
+20/direct_pink_guppy:
+lifespan - 3
+strength - 1
+children - 0
+direct_pink_guppy ate
+
+21/inland_amber_ferret:
+lifespan - 3
+strength - 1
+children - 0
+inland_amber_ferret ran
+
+ambitious_aqua_minnow died
+23/light_purple_grouse:
+lifespan - 3
+strength - 3
+children - 0
+
+24/rational_turquoise_constrictor:
+lifespan - 3
+strength - 3
+children - 0
+rational_turquoise_constrictor ate
+
+25/numerous_tomato_piranha:
+lifespan - 3
+strength - 1
+children - 0
+numerous_tomato_piranha ran
+
+26/intimate_lavender_perch:
+lifespan - 3
+strength - 1
+children - 0
+intimate_lavender_perch ran
+
+27/sure_fuchsia_toad:
+lifespan - 3
+strength - 3
+children - 0
+sure_fuchsia_toad looked at superb_pink_cobra
+
+29/principal_moccasin_deer:
+lifespan - 3
+strength - 1
+children - 0
+principal_moccasin_deer looked at principal_moccasin_deer
+
+===================================================
+State of World
+step: 4: food - 37
+
+sleepy_violet_hornet died
+1/clean_blush_urial:
+lifespan - 4
+strength - 1
+children - 0
+clean_blush_urial ate
+
+2/negative_azure_ox:
+lifespan - 4
+strength - 2
+children - 0
+negative_azure_ox attacked uncertain_salmon_donkey
+
+great_maroon_mule died
+4/creative_peach_crow:
+lifespan - 4
+strength - 2
+children - 0
+
+5/uptight_rose_perch:
+lifespan - 4
+strength - 4
+children - 0
+
+6/excellent_aqua_rook:
+lifespan - 4
+strength - 6
+children - 0
+excellent_aqua_rook ran
+
+7/dominant_silver_hornet:
+lifespan - 4
+strength - 4
+children - 0
+
+8/unchanged_amber_marmoset:
+lifespan - 4
+strength - 2
+children - 0
+
+9/dry_chocolate_wildebeest:
+lifespan - 4
+strength - 4
+children - 0
+dry_chocolate_wildebeest looked at direct_pink_guppy
+
+11/christian_violet_dog:
+lifespan - 4
+strength - 2
+children - 0
+christian_violet_dog attacked dry_chocolate_wildebeest
+
+12/yellow_pink_bison:
+lifespan - 4
+strength - 2
+children - 0
+yellow_pink_bison ran
+
+13/hot_amber_bug:
+lifespan - 4
+strength - 2
+children - 0
+
+14/notable_magenta_haddock:
+lifespan - 4
+strength - 3
+children - 0
+
+related_azure_wildfowl died
+17/superb_pink_cobra:
+lifespan - 4
+strength - 5
+children - 0
+superb_pink_cobra looked at sleepy_violet_hornet
+
+18/sweet_blue_guineafowl:
+lifespan - 4
+strength - 2
+children - 0
+sweet_blue_guineafowl ran
+
+19/sad_beige_damselfly:
+lifespan - 4
+strength - 4
+children - 0
+sad_beige_damselfly attacked christian_violet_dog
+
+20/direct_pink_guppy:
+lifespan - 4
+strength - 2
+children - 0
+direct_pink_guppy attacked numerous_tomato_piranha
+
+inland_amber_ferret died
+23/light_purple_grouse:
+lifespan - 4
+strength - 2
+children - 0
+
+24/rational_turquoise_constrictor:
+lifespan - 4
+strength - 4
+children - 0
+rational_turquoise_constrictor ran
+
+numerous_tomato_piranha died
+intimate_lavender_perch died
+27/sure_fuchsia_toad:
+lifespan - 4
+strength - 2
+children - 0
+sure_fuchsia_toad ran
+
+principal_moccasin_deer died
+===================================================
+State of World
+step: 5: food - 46
+
+1/clean_blush_urial:
+lifespan - 5
+strength - 2
+children - 0
+clean_blush_urial looked at sure_fuchsia_toad
+
+2/negative_azure_ox:
+lifespan - 5
+strength - 1
+children - 0
+negative_azure_ox looked at sure_fuchsia_toad
+
+4/creative_peach_crow:
+lifespan - 5
+strength - 1
+children - 0
+
+5/uptight_rose_perch:
+lifespan - 5
+strength - 3
+children - 0
+
+6/excellent_aqua_rook:
+lifespan - 5
+strength - 5
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 5
+strength - 3
+children - 0
+dominant_silver_hornet ate
+
+8/unchanged_amber_marmoset:
+lifespan - 5
+strength - 1
+children - 0
+unchanged_amber_marmoset looked at excellent_aqua_rook
+
+9/dry_chocolate_wildebeest:
+lifespan - 5
+strength - 1
+children - 0
+dry_chocolate_wildebeest looked at light_purple_grouse
+
+christian_violet_dog died
+12/yellow_pink_bison:
+lifespan - 5
+strength - 1
+children - 0
+yellow_pink_bison ran
+
+13/hot_amber_bug:
+lifespan - 5
+strength - 1
+children - 0
+hot_amber_bug ate
+
+14/notable_magenta_haddock:
+lifespan - 5
+strength - 2
+children - 0
+
+17/superb_pink_cobra:
+lifespan - 5
+strength - 4
+children - 0
+superb_pink_cobra attacked sleepy_violet_hornet
+
+18/sweet_blue_guineafowl:
+lifespan - 5
+strength - 1
+children - 0
+sweet_blue_guineafowl looked at creative_peach_crow
+
+19/sad_beige_damselfly:
+lifespan - 5
+strength - 7
+children - 0
+sad_beige_damselfly ate
+
+20/direct_pink_guppy:
+lifespan - 5
+strength - 2
+children - 0
+direct_pink_guppy attacked numerous_tomato_piranha
+
+23/light_purple_grouse:
+lifespan - 5
+strength - 1
+children - 0
+
+24/rational_turquoise_constrictor:
+lifespan - 5
+strength - 3
+children - 0
+rational_turquoise_constrictor ate
+
+27/sure_fuchsia_toad:
+lifespan - 5
+strength - 1
+children - 0
+sure_fuchsia_toad ran
+
+===================================================
+State of World
+step: 6: food - 51
+
+1/clean_blush_urial:
+lifespan - 6
+strength - 1
+children - 0
+clean_blush_urial looked at rational_turquoise_constrictor
+
+negative_azure_ox died
+creative_peach_crow died
+5/uptight_rose_perch:
+lifespan - 6
+strength - 2
+children - 0
+
+6/excellent_aqua_rook:
+lifespan - 6
+strength - 6
+children - 0
+excellent_aqua_rook looked at clean_blush_urial
+
+7/dominant_silver_hornet:
+lifespan - 6
+strength - 4
+children - 0
+dominant_silver_hornet ate
+
+unchanged_amber_marmoset died
+dry_chocolate_wildebeest died
+yellow_pink_bison died
+13/hot_amber_bug:
+lifespan - 6
+strength - 2
+children - 0
+hot_amber_bug looked at sure_fuchsia_toad
+
+14/notable_magenta_haddock:
+lifespan - 6
+strength - 1
+children - 0
+notable_magenta_haddock attacked actual_purple_donkey
+
+17/superb_pink_cobra:
+lifespan - 6
+strength - 3
+children - 0
+superb_pink_cobra attacked sleepy_violet_hornet
+
+sweet_blue_guineafowl died
+19/sad_beige_damselfly:
+lifespan - 6
+strength - 8
+children - 0
+sad_beige_damselfly ate
+
+direct_pink_guppy died
+light_purple_grouse died
+24/rational_turquoise_constrictor:
+lifespan - 6
+strength - 4
+children - 0
+rational_turquoise_constrictor ate
+
+sure_fuchsia_toad died
+===================================================
+State of World
+step: 7: food - 58
+
+clean_blush_urial died
+5/uptight_rose_perch:
+lifespan - 7
+strength - 1
+children - 0
+uptight_rose_perch looked at clean_blush_urial
+
+6/excellent_aqua_rook:
+lifespan - 7
+strength - 5
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 7
+strength - 5
+children - 0
+dominant_silver_hornet ate
+
+13/hot_amber_bug:
+lifespan - 7
+strength - 1
+children - 0
+hot_amber_bug looked at rational_turquoise_constrictor
+
+notable_magenta_haddock died
+17/superb_pink_cobra:
+lifespan - 7
+strength - 2
+children - 0
+superb_pink_cobra attacked sleepy_violet_hornet
+
+19/sad_beige_damselfly:
+lifespan - 7
+strength - 9
+children - 0
+sad_beige_damselfly attacked christian_violet_dog
+
+24/rational_turquoise_constrictor:
+lifespan - 7
+strength - 5
+children - 0
+rational_turquoise_constrictor ate
+
+===================================================
+State of World
+step: 8: food - 65
+
+uptight_rose_perch died
+6/excellent_aqua_rook:
+lifespan - 8
+strength - 6
+children - 0
+excellent_aqua_rook looked at rational_turquoise_constrictor
+
+7/dominant_silver_hornet:
+lifespan - 8
+strength - 6
+children - 0
+dominant_silver_hornet ate
+
+hot_amber_bug died
+17/superb_pink_cobra:
+lifespan - 8
+strength - 1
+children - 0
+superb_pink_cobra attacked sleepy_violet_hornet
+
+19/sad_beige_damselfly:
+lifespan - 8
+strength - 7
+children - 0
+sad_beige_damselfly looked at uptight_rose_perch
+
+24/rational_turquoise_constrictor:
+lifespan - 8
+strength - 6
+children - 0
+rational_turquoise_constrictor ate
+
+===================================================
+State of World
+step: 9: food - 73
+
+6/excellent_aqua_rook:
+lifespan - 9
+strength - 5
+children - 0
+
+7/dominant_silver_hornet:
+lifespan - 9
+strength - 7
+children - 0
+dominant_silver_hornet ate
+
+superb_pink_cobra died
+19/sad_beige_damselfly:
+lifespan - 9
+strength - 6
+children - 0
+sad_beige_damselfly attacked uptight_rose_perch
+
+24/rational_turquoise_constrictor:
+lifespan - 9
+strength - 7
+children - 0
+rational_turquoise_constrictor ate
+
+===================================================
+State of World
+step: 10: food - 81
+
+6/excellent_aqua_rook:
+lifespan - 10
+strength - 4
+children - 0
+excellent_aqua_rook attacked rational_turquoise_constrictor
+
+7/dominant_silver_hornet:
+lifespan - 10
+strength - 8
+children - 0
+
+19/sad_beige_damselfly:
+lifespan - 10
+strength - 5
+children - 0
+
+24/rational_turquoise_constrictor:
+lifespan - 10
+strength - 4
+children - 0
+rational_turquoise_constrictor ate
+
+===================================================
+State of World
+step: 11: food - 90
+
+6/excellent_aqua_rook:
+lifespan - 11
+strength - 7
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 11
+strength - 7
+children - 0
+dominant_silver_hornet ate
+
+19/sad_beige_damselfly:
+lifespan - 11
+strength - 4
+children - 0
+sad_beige_damselfly attacked uptight_rose_perch
+
+24/rational_turquoise_constrictor:
+lifespan - 11
+strength - 5
+children - 0
+rational_turquoise_constrictor ate
+
+===================================================
+State of World
+step: 12: food - 97
+
+6/excellent_aqua_rook:
+lifespan - 12
+strength - 8
+children - 0
+excellent_aqua_rook attacked rational_turquoise_constrictor
+
+7/dominant_silver_hornet:
+lifespan - 12
+strength - 8
+children - 0
+dominant_silver_hornet looked at dominant_silver_hornet
+
+19/sad_beige_damselfly:
+lifespan - 12
+strength - 3
+children - 0
+sad_beige_damselfly looked at rational_turquoise_constrictor
+
+rational_turquoise_constrictor died
+===================================================
+State of World
+step: 13: food - 107
+
+6/excellent_aqua_rook:
+lifespan - 13
+strength - 14
+children - 0
+
+7/dominant_silver_hornet:
+lifespan - 13
+strength - 7
+children - 0
+dominant_silver_hornet attacked dominant_silver_hornet
+
+19/sad_beige_damselfly:
+lifespan - 13
+strength - 2
+children - 0
+sad_beige_damselfly attacked rational_turquoise_constrictor
+
+===================================================
+State of World
+step: 14: food - 117
+
+6/excellent_aqua_rook:
+lifespan - 14
+strength - 13
+children - 0
+excellent_aqua_rook looked at sad_beige_damselfly
+
+7/dominant_silver_hornet:
+lifespan - 14
+strength - 6
+children - 0
+dominant_silver_hornet ate
+
+sad_beige_damselfly died
+===================================================
+State of World
+step: 15: food - 126
+
+6/excellent_aqua_rook:
+lifespan - 15
+strength - 12
+children - 0
+excellent_aqua_rook looked at dominant_silver_hornet
+
+7/dominant_silver_hornet:
+lifespan - 15
+strength - 7
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 16: food - 135
+
+6/excellent_aqua_rook:
+lifespan - 16
+strength - 11
+children - 0
+excellent_aqua_rook ran
+
+7/dominant_silver_hornet:
+lifespan - 16
+strength - 8
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 17: food - 144
+
+6/excellent_aqua_rook:
+lifespan - 17
+strength - 10
+children - 0
+excellent_aqua_rook looked at excellent_aqua_rook
+
+7/dominant_silver_hornet:
+lifespan - 17
+strength - 9
+children - 0
+dominant_silver_hornet attacked dominant_silver_hornet
+
+===================================================
+State of World
+step: 18: food - 154
+
+6/excellent_aqua_rook:
+lifespan - 18
+strength - 9
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 18
+strength - 8
+children - 0
+dominant_silver_hornet looked at excellent_aqua_rook
+
+===================================================
+State of World
+step: 19: food - 163
+
+6/excellent_aqua_rook:
+lifespan - 19
+strength - 10
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 19
+strength - 7
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 20: food - 171
+
+6/excellent_aqua_rook:
+lifespan - 20
+strength - 11
+children - 0
+excellent_aqua_rook looked at dominant_silver_hornet
+
+7/dominant_silver_hornet:
+lifespan - 20
+strength - 8
+children - 0
+
+===================================================
+State of World
+step: 21: food - 181
+
+6/excellent_aqua_rook:
+lifespan - 21
+strength - 10
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 21
+strength - 7
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 22: food - 189
+
+6/excellent_aqua_rook:
+lifespan - 22
+strength - 11
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 22
+strength - 8
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 23: food - 197
+
+6/excellent_aqua_rook:
+lifespan - 23
+strength - 12
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 23
+strength - 9
+children - 0
+
+===================================================
+State of World
+step: 24: food - 206
+
+6/excellent_aqua_rook:
+lifespan - 24
+strength - 13
+children - 0
+excellent_aqua_rook looked at excellent_aqua_rook
+
+7/dominant_silver_hornet:
+lifespan - 24
+strength - 8
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 25: food - 215
+
+6/excellent_aqua_rook:
+lifespan - 25
+strength - 12
+children - 0
+excellent_aqua_rook looked at dominant_silver_hornet
+
+7/dominant_silver_hornet:
+lifespan - 25
+strength - 9
+children - 0
+dominant_silver_hornet attacked excellent_aqua_rook
+
+===================================================
+State of World
+step: 26: food - 225
+
+6/excellent_aqua_rook:
+lifespan - 26
+strength - 2
+children - 0
+excellent_aqua_rook looked at excellent_aqua_rook
+
+7/dominant_silver_hornet:
+lifespan - 26
+strength - 17
+children - 0
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 27: food - 235
+
+6/excellent_aqua_rook:
+lifespan - 27
+strength - 1
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 27
+strength - 16
+children - 0
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 28: food - 244
+
+6/excellent_aqua_rook:
+lifespan - 28
+strength - 2
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 28
+strength - 15
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 29: food - 252
+
+6/excellent_aqua_rook:
+lifespan - 29
+strength - 3
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 29
+strength - 16
+children - 0
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 30: food - 261
+
+6/excellent_aqua_rook:
+lifespan - 30
+strength - 4
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 30
+strength - 15
+children - 0
+
+===================================================
+State of World
+step: 31: food - 270
+
+6/excellent_aqua_rook:
+lifespan - 31
+strength - 5
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 31
+strength - 14
+children - 0
+
+===================================================
+State of World
+step: 32: food - 279
+
+6/excellent_aqua_rook:
+lifespan - 32
+strength - 6
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 32
+strength - 13
+children - 0
+dominant_silver_hornet attacked dominant_silver_hornet
+
+===================================================
+State of World
+step: 33: food - 288
+
+6/excellent_aqua_rook:
+lifespan - 33
+strength - 7
+children - 0
+
+7/dominant_silver_hornet:
+lifespan - 33
+strength - 12
+children - 0
+dominant_silver_hornet looked at excellent_aqua_rook
+
+===================================================
+State of World
+step: 34: food - 298
+
+6/excellent_aqua_rook:
+lifespan - 34
+strength - 6
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 34
+strength - 11
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 35: food - 306
+
+6/excellent_aqua_rook:
+lifespan - 35
+strength - 7
+children - 0
+excellent_aqua_rook looked at dominant_silver_hornet
+
+7/dominant_silver_hornet:
+lifespan - 35
+strength - 12
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 36: food - 315
+
+6/excellent_aqua_rook:
+lifespan - 36
+strength - 6
+children - 0
+excellent_aqua_rook ate
+
+7/dominant_silver_hornet:
+lifespan - 36
+strength - 13
+children - 0
+
+===================================================
+State of World
+step: 37: food - 324
+
+6/excellent_aqua_rook:
+lifespan - 37
+strength - 7
+children - 0
+
+7/dominant_silver_hornet:
+lifespan - 37
+strength - 12
+children - 0
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 38: food - 334
+
+6/excellent_aqua_rook:
+lifespan - 38
+strength - 6
+children - 0
+
+7/dominant_silver_hornet:
+lifespan - 38
+strength - 11
+children - 0
+dominant_silver_hornet attacked excellent_aqua_rook
+
+===================================================
+State of World
+step: 39: food - 344
+
+excellent_aqua_rook died
+7/dominant_silver_hornet:
+lifespan - 39
+strength - 16
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 40: food - 353
+
+7/dominant_silver_hornet:
+lifespan - 40
+strength - 17
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 41: food - 362
+
+7/dominant_silver_hornet:
+lifespan - 41
+strength - 18
+children - 0
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 42: food - 371
+
+7/dominant_silver_hornet:
+lifespan - 42
+strength - 19
+children - 0
+dominant_silver_hornet reproduced
+
+===================================================
+State of World
+step: 43: food - 381
+
+7/dominant_silver_hornet:
+lifespan - 43
+strength - 8
+children - 1
+dominant_silver_hornet ran
+
+30/shocked_aquamarine_anteater:
+lifespan - 0
+strength - 4
+children - 0
+shocked_aquamarine_anteater ate
+
+===================================================
+State of World
+step: 44: food - 390
+
+7/dominant_silver_hornet:
+lifespan - 44
+strength - 7
+children - 1
+dominant_silver_hornet ate
+
+30/shocked_aquamarine_anteater:
+lifespan - 1
+strength - 5
+children - 0
+shocked_aquamarine_anteater looked at shocked_aquamarine_anteater
+
+===================================================
+State of World
+step: 45: food - 399
+
+7/dominant_silver_hornet:
+lifespan - 45
+strength - 8
+children - 1
+dominant_silver_hornet ate
+
+30/shocked_aquamarine_anteater:
+lifespan - 2
+strength - 4
+children - 0
+shocked_aquamarine_anteater ran
+
+===================================================
+State of World
+step: 46: food - 408
+
+7/dominant_silver_hornet:
+lifespan - 46
+strength - 9
+children - 1
+dominant_silver_hornet ate
+
+30/shocked_aquamarine_anteater:
+lifespan - 3
+strength - 3
+children - 0
+shocked_aquamarine_anteater ate
+
+===================================================
+State of World
+step: 47: food - 416
+
+7/dominant_silver_hornet:
+lifespan - 47
+strength - 10
+children - 1
+dominant_silver_hornet ate
+
+30/shocked_aquamarine_anteater:
+lifespan - 4
+strength - 4
+children - 0
+shocked_aquamarine_anteater ran
+
+===================================================
+State of World
+step: 48: food - 425
+
+7/dominant_silver_hornet:
+lifespan - 48
+strength - 11
+children - 1
+dominant_silver_hornet ate
+
+30/shocked_aquamarine_anteater:
+lifespan - 5
+strength - 3
+children - 0
+shocked_aquamarine_anteater ran
+
+===================================================
+State of World
+step: 49: food - 434
+
+7/dominant_silver_hornet:
+lifespan - 49
+strength - 12
+children - 1
+dominant_silver_hornet ate
+
+30/shocked_aquamarine_anteater:
+lifespan - 6
+strength - 2
+children - 0
+shocked_aquamarine_anteater looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 50: food - 443
+
+7/dominant_silver_hornet:
+lifespan - 50
+strength - 13
+children - 1
+dominant_silver_hornet looked at dominant_silver_hornet
+
+30/shocked_aquamarine_anteater:
+lifespan - 7
+strength - 1
+children - 0
+
+===================================================
+State of World
+step: 51: food - 453
+
+7/dominant_silver_hornet:
+lifespan - 51
+strength - 12
+children - 1
+dominant_silver_hornet ate
+
+shocked_aquamarine_anteater died
+===================================================
+State of World
+step: 52: food - 462
+
+7/dominant_silver_hornet:
+lifespan - 52
+strength - 13
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 53: food - 471
+
+7/dominant_silver_hornet:
+lifespan - 53
+strength - 14
+children - 1
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 54: food - 481
+
+7/dominant_silver_hornet:
+lifespan - 54
+strength - 13
+children - 1
+
+===================================================
+State of World
+step: 55: food - 491
+
+7/dominant_silver_hornet:
+lifespan - 55
+strength - 12
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 56: food - 500
+
+7/dominant_silver_hornet:
+lifespan - 56
+strength - 13
+children - 1
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 57: food - 510
+
+7/dominant_silver_hornet:
+lifespan - 57
+strength - 12
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 58: food - 519
+
+7/dominant_silver_hornet:
+lifespan - 58
+strength - 13
+children - 1
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 59: food - 529
+
+7/dominant_silver_hornet:
+lifespan - 59
+strength - 12
+children - 1
+
+===================================================
+State of World
+step: 60: food - 539
+
+7/dominant_silver_hornet:
+lifespan - 60
+strength - 11
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 61: food - 548
+
+7/dominant_silver_hornet:
+lifespan - 61
+strength - 12
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 62: food - 557
+
+7/dominant_silver_hornet:
+lifespan - 62
+strength - 13
+children - 1
+dominant_silver_hornet attacked dominant_silver_hornet
+
+===================================================
+State of World
+step: 63: food - 567
+
+7/dominant_silver_hornet:
+lifespan - 63
+strength - 12
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 64: food - 576
+
+7/dominant_silver_hornet:
+lifespan - 64
+strength - 13
+children - 1
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 65: food - 586
+
+7/dominant_silver_hornet:
+lifespan - 65
+strength - 12
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 66: food - 595
+
+7/dominant_silver_hornet:
+lifespan - 66
+strength - 13
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 67: food - 604
+
+7/dominant_silver_hornet:
+lifespan - 67
+strength - 14
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 68: food - 613
+
+7/dominant_silver_hornet:
+lifespan - 68
+strength - 15
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 69: food - 622
+
+7/dominant_silver_hornet:
+lifespan - 69
+strength - 16
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 70: food - 631
+
+7/dominant_silver_hornet:
+lifespan - 70
+strength - 17
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 71: food - 640
+
+7/dominant_silver_hornet:
+lifespan - 71
+strength - 18
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 72: food - 649
+
+7/dominant_silver_hornet:
+lifespan - 72
+strength - 19
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 73: food - 658
+
+7/dominant_silver_hornet:
+lifespan - 73
+strength - 20
+children - 1
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 74: food - 667
+
+7/dominant_silver_hornet:
+lifespan - 74
+strength - 21
+children - 1
+dominant_silver_hornet reproduced
+
+===================================================
+State of World
+step: 75: food - 677
+
+7/dominant_silver_hornet:
+lifespan - 75
+strength - 10
+children - 2
+dominant_silver_hornet ate
+
+31/tart_lime_squirrel:
+lifespan - 0
+strength - 4
+children - 0
+
+===================================================
+State of World
+step: 76: food - 686
+
+7/dominant_silver_hornet:
+lifespan - 76
+strength - 11
+children - 2
+dominant_silver_hornet looked at tart_lime_squirrel
+
+31/tart_lime_squirrel:
+lifespan - 1
+strength - 3
+children - 0
+tart_lime_squirrel ran
+
+===================================================
+State of World
+step: 77: food - 696
+
+7/dominant_silver_hornet:
+lifespan - 77
+strength - 10
+children - 2
+dominant_silver_hornet attacked tart_lime_squirrel
+
+tart_lime_squirrel died
+===================================================
+State of World
+step: 78: food - 706
+
+7/dominant_silver_hornet:
+lifespan - 78
+strength - 12
+children - 2
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 79: food - 716
+
+7/dominant_silver_hornet:
+lifespan - 79
+strength - 11
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 80: food - 725
+
+7/dominant_silver_hornet:
+lifespan - 80
+strength - 12
+children - 2
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 81: food - 735
+
+7/dominant_silver_hornet:
+lifespan - 81
+strength - 11
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 82: food - 744
+
+7/dominant_silver_hornet:
+lifespan - 82
+strength - 12
+children - 2
+
+===================================================
+State of World
+step: 83: food - 754
+
+7/dominant_silver_hornet:
+lifespan - 83
+strength - 11
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 84: food - 763
+
+7/dominant_silver_hornet:
+lifespan - 84
+strength - 12
+children - 2
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 85: food - 773
+
+7/dominant_silver_hornet:
+lifespan - 85
+strength - 11
+children - 2
+
+===================================================
+State of World
+step: 86: food - 783
+
+7/dominant_silver_hornet:
+lifespan - 86
+strength - 10
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 87: food - 792
+
+7/dominant_silver_hornet:
+lifespan - 87
+strength - 11
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 88: food - 801
+
+7/dominant_silver_hornet:
+lifespan - 88
+strength - 12
+children - 2
+dominant_silver_hornet attacked dominant_silver_hornet
+
+===================================================
+State of World
+step: 89: food - 811
+
+7/dominant_silver_hornet:
+lifespan - 89
+strength - 11
+children - 2
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 90: food - 821
+
+7/dominant_silver_hornet:
+lifespan - 90
+strength - 10
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 91: food - 830
+
+7/dominant_silver_hornet:
+lifespan - 91
+strength - 11
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 92: food - 839
+
+7/dominant_silver_hornet:
+lifespan - 92
+strength - 12
+children - 2
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 93: food - 849
+
+7/dominant_silver_hornet:
+lifespan - 93
+strength - 11
+children - 2
+
+===================================================
+State of World
+step: 94: food - 859
+
+7/dominant_silver_hornet:
+lifespan - 94
+strength - 10
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 95: food - 868
+
+7/dominant_silver_hornet:
+lifespan - 95
+strength - 11
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 96: food - 877
+
+7/dominant_silver_hornet:
+lifespan - 96
+strength - 12
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 97: food - 886
+
+7/dominant_silver_hornet:
+lifespan - 97
+strength - 13
+children - 2
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 98: food - 896
+
+7/dominant_silver_hornet:
+lifespan - 98
+strength - 12
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 99: food - 905
+
+7/dominant_silver_hornet:
+lifespan - 99
+strength - 13
+children - 2
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 100: food - 915
+
+7/dominant_silver_hornet:
+lifespan - 100
+strength - 12
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 101: food - 924
+
+7/dominant_silver_hornet:
+lifespan - 101
+strength - 13
+children - 2
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 102: food - 934
+
+7/dominant_silver_hornet:
+lifespan - 102
+strength - 12
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 103: food - 943
+
+7/dominant_silver_hornet:
+lifespan - 103
+strength - 13
+children - 2
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 104: food - 953
+
+7/dominant_silver_hornet:
+lifespan - 104
+strength - 12
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 105: food - 962
+
+7/dominant_silver_hornet:
+lifespan - 105
+strength - 13
+children - 2
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 106: food - 972
+
+7/dominant_silver_hornet:
+lifespan - 106
+strength - 12
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 107: food - 981
+
+7/dominant_silver_hornet:
+lifespan - 107
+strength - 13
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 108: food - 990
+
+7/dominant_silver_hornet:
+lifespan - 108
+strength - 14
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 109: food - 999
+
+7/dominant_silver_hornet:
+lifespan - 109
+strength - 15
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 110: food - 1008
+
+7/dominant_silver_hornet:
+lifespan - 110
+strength - 16
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 111: food - 1017
+
+7/dominant_silver_hornet:
+lifespan - 111
+strength - 17
+children - 2
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 112: food - 1027
+
+7/dominant_silver_hornet:
+lifespan - 112
+strength - 16
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 113: food - 1036
+
+7/dominant_silver_hornet:
+lifespan - 113
+strength - 17
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 114: food - 1045
+
+7/dominant_silver_hornet:
+lifespan - 114
+strength - 18
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 115: food - 1054
+
+7/dominant_silver_hornet:
+lifespan - 115
+strength - 19
+children - 2
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 116: food - 1064
+
+7/dominant_silver_hornet:
+lifespan - 116
+strength - 18
+children - 2
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 117: food - 1073
+
+7/dominant_silver_hornet:
+lifespan - 117
+strength - 19
+children - 2
+dominant_silver_hornet reproduced
+
+===================================================
+State of World
+step: 118: food - 1083
+
+7/dominant_silver_hornet:
+lifespan - 118
+strength - 8
+children - 3
+dominant_silver_hornet attacked dominant_silver_hornet
+
+32/universal_silver_weasel:
+lifespan - 0
+strength - 4
+children - 0
+universal_silver_weasel ate
+
+===================================================
+State of World
+step: 119: food - 1092
+
+7/dominant_silver_hornet:
+lifespan - 119
+strength - 7
+children - 3
+dominant_silver_hornet ate
+
+32/universal_silver_weasel:
+lifespan - 1
+strength - 5
+children - 0
+universal_silver_weasel ate
+
+===================================================
+State of World
+step: 120: food - 1100
+
+7/dominant_silver_hornet:
+lifespan - 120
+strength - 8
+children - 3
+dominant_silver_hornet ate
+
+32/universal_silver_weasel:
+lifespan - 2
+strength - 6
+children - 0
+universal_silver_weasel looked at universal_silver_weasel
+
+===================================================
+State of World
+step: 121: food - 1109
+
+7/dominant_silver_hornet:
+lifespan - 121
+strength - 9
+children - 3
+dominant_silver_hornet ate
+
+32/universal_silver_weasel:
+lifespan - 3
+strength - 5
+children - 0
+universal_silver_weasel ran
+
+===================================================
+State of World
+step: 122: food - 1118
+
+7/dominant_silver_hornet:
+lifespan - 122
+strength - 10
+children - 3
+dominant_silver_hornet ate
+
+32/universal_silver_weasel:
+lifespan - 4
+strength - 4
+children - 0
+
+===================================================
+State of World
+step: 123: food - 1127
+
+7/dominant_silver_hornet:
+lifespan - 123
+strength - 11
+children - 3
+dominant_silver_hornet looked at universal_silver_weasel
+
+32/universal_silver_weasel:
+lifespan - 5
+strength - 3
+children - 0
+universal_silver_weasel looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 124: food - 1137
+
+7/dominant_silver_hornet:
+lifespan - 124
+strength - 10
+children - 3
+dominant_silver_hornet ate
+
+32/universal_silver_weasel:
+lifespan - 6
+strength - 2
+children - 0
+universal_silver_weasel looked at universal_silver_weasel
+
+===================================================
+State of World
+step: 125: food - 1146
+
+7/dominant_silver_hornet:
+lifespan - 125
+strength - 11
+children - 3
+dominant_silver_hornet ate
+
+32/universal_silver_weasel:
+lifespan - 7
+strength - 1
+children - 0
+universal_silver_weasel attacked universal_silver_weasel
+
+===================================================
+State of World
+step: 126: food - 1155
+
+7/dominant_silver_hornet:
+lifespan - 126
+strength - 12
+children - 3
+dominant_silver_hornet looked at dominant_silver_hornet
+
+universal_silver_weasel died
+===================================================
+State of World
+step: 127: food - 1165
+
+7/dominant_silver_hornet:
+lifespan - 127
+strength - 11
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 128: food - 1174
+
+7/dominant_silver_hornet:
+lifespan - 128
+strength - 12
+children - 3
+dominant_silver_hornet attacked dominant_silver_hornet
+
+===================================================
+State of World
+step: 129: food - 1184
+
+7/dominant_silver_hornet:
+lifespan - 129
+strength - 11
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 130: food - 1193
+
+7/dominant_silver_hornet:
+lifespan - 130
+strength - 12
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 131: food - 1202
+
+7/dominant_silver_hornet:
+lifespan - 131
+strength - 13
+children - 3
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 132: food - 1212
+
+7/dominant_silver_hornet:
+lifespan - 132
+strength - 12
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 133: food - 1221
+
+7/dominant_silver_hornet:
+lifespan - 133
+strength - 13
+children - 3
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 134: food - 1231
+
+7/dominant_silver_hornet:
+lifespan - 134
+strength - 12
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 135: food - 1240
+
+7/dominant_silver_hornet:
+lifespan - 135
+strength - 13
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 136: food - 1249
+
+7/dominant_silver_hornet:
+lifespan - 136
+strength - 14
+children - 3
+dominant_silver_hornet attacked dominant_silver_hornet
+
+===================================================
+State of World
+step: 137: food - 1259
+
+7/dominant_silver_hornet:
+lifespan - 137
+strength - 13
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 138: food - 1268
+
+7/dominant_silver_hornet:
+lifespan - 138
+strength - 14
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 139: food - 1277
+
+7/dominant_silver_hornet:
+lifespan - 139
+strength - 15
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 140: food - 1286
+
+7/dominant_silver_hornet:
+lifespan - 140
+strength - 16
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 141: food - 1295
+
+7/dominant_silver_hornet:
+lifespan - 141
+strength - 17
+children - 3
+dominant_silver_hornet looked at dominant_silver_hornet
+
+===================================================
+State of World
+step: 142: food - 1305
+
+7/dominant_silver_hornet:
+lifespan - 142
+strength - 16
+children - 3
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 143: food - 1315
+
+7/dominant_silver_hornet:
+lifespan - 143
+strength - 15
+children - 3
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 144: food - 1325
+
+7/dominant_silver_hornet:
+lifespan - 144
+strength - 14
+children - 3
+
+===================================================
+State of World
+step: 145: food - 1335
+
+7/dominant_silver_hornet:
+lifespan - 145
+strength - 13
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 146: food - 1344
+
+7/dominant_silver_hornet:
+lifespan - 146
+strength - 14
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 147: food - 1353
+
+7/dominant_silver_hornet:
+lifespan - 147
+strength - 15
+children - 3
+
+===================================================
+State of World
+step: 148: food - 1363
+
+7/dominant_silver_hornet:
+lifespan - 148
+strength - 14
+children - 3
+
+===================================================
+State of World
+step: 149: food - 1373
+
+7/dominant_silver_hornet:
+lifespan - 149
+strength - 13
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 150: food - 1382
+
+7/dominant_silver_hornet:
+lifespan - 150
+strength - 14
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 151: food - 1391
+
+7/dominant_silver_hornet:
+lifespan - 151
+strength - 15
+children - 3
+dominant_silver_hornet ran
+
+===================================================
+State of World
+step: 152: food - 1401
+
+7/dominant_silver_hornet:
+lifespan - 152
+strength - 14
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 153: food - 1410
+
+7/dominant_silver_hornet:
+lifespan - 153
+strength - 15
+children - 3
+dominant_silver_hornet attacked dominant_silver_hornet
+
+===================================================
+State of World
+step: 154: food - 1420
+
+7/dominant_silver_hornet:
+lifespan - 154
+strength - 14
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 155: food - 1429
+
+7/dominant_silver_hornet:
+lifespan - 155
+strength - 15
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 156: food - 1438
+
+7/dominant_silver_hornet:
+lifespan - 156
+strength - 16
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 157: food - 1447
+
+7/dominant_silver_hornet:
+lifespan - 157
+strength - 17
+children - 3
+dominant_silver_hornet ate
+
+===================================================
+State of World
+step: 158: food - 1456
+
+7/dominant_silver_hornet:
+lifespan - 158
+strength - 18
+children - 3
+dominant_silver_hornet attacked dominant_silver_hornet
+
+===================================================
+State of World
+step: 159: food - 1466
+
+7/dominant_silver_hornet:
+lifespan - 159
+strength - 17
+children - 3
+dominant_silver_hornet attacked dominant_silver_hornet
+
+===================================================
+State of World
+step: 160: food - 1476
+
+7/dominant_silver_hornet:
+lifespan - 160
+strength - 16
+children - 3
+dominant_silver_hornet reproduced
+
+===================================================
+State of World
+step: 161: food - 1486
+
+7/dominant_silver_hornet:
+lifespan - 161
+strength - 5
+children - 4
+dominant_silver_hornet looked at wonderful_maroon_ant
+
+33/wonderful_maroon_ant:
+lifespan - 0
+strength - 4
+children - 0
+wonderful_maroon_ant attacked dominant_silver_hornet
+
+===================================================
+State of World
+step: 162: food - 1496
+
+dominant_silver_hornet died
+33/wonderful_maroon_ant:
+lifespan - 1
+strength - 7
+children - 0
+wonderful_maroon_ant looked at wonderful_maroon_ant
+
+===================================================
+State of World
+step: 163: food - 1506
+
+33/wonderful_maroon_ant:
+lifespan - 2
+strength - 6
+children - 0
+wonderful_maroon_ant looked at wonderful_maroon_ant
+
+===================================================
+State of World
+step: 164: food - 1516
+
+33/wonderful_maroon_ant:
+lifespan - 3
+strength - 5
+children - 0
+wonderful_maroon_ant looked at wonderful_maroon_ant
+
+===================================================
+State of World
+step: 165: food - 1526
+
+33/wonderful_maroon_ant:
+lifespan - 4
+strength - 4
+children - 0
+wonderful_maroon_ant looked at wonderful_maroon_ant
+
+===================================================
+State of World
+step: 166: food - 1536
+
+33/wonderful_maroon_ant:
+lifespan - 5
+strength - 3
+children - 0
+wonderful_maroon_ant looked at wonderful_maroon_ant
+
+===================================================
+State of World
+step: 167: food - 1546
+
+33/wonderful_maroon_ant:
+lifespan - 6
+strength - 2
+children - 0
+wonderful_maroon_ant looked at wonderful_maroon_ant
+
+===================================================
+State of World
+step: 168: food - 1556
+
+33/wonderful_maroon_ant:
+lifespan - 7
+strength - 1
+children - 0
+wonderful_maroon_ant ate
+
+===================================================
+State of World
+step: 169: food - 1565
+
+33/wonderful_maroon_ant:
+lifespan - 8
+strength - 2
+children - 0
+wonderful_maroon_ant looked at wonderful_maroon_ant
+
+===================================================
+State of World
+step: 170: food - 1575
+
+33/wonderful_maroon_ant:
+lifespan - 9
+strength - 1
+children - 0
+wonderful_maroon_ant ate
+
+===================================================
+State of World
+step: 171: food - 1584
+
+33/wonderful_maroon_ant:
+lifespan - 10
+strength - 2
+children - 0
+wonderful_maroon_ant looked at wonderful_maroon_ant
+
+===================================================
+State of World
+step: 172: food - 1594
+
+33/wonderful_maroon_ant:
+lifespan - 11
+strength - 1
+children - 0
+wonderful_maroon_ant looked at wonderful_maroon_ant
+
+===================================================
+State of World
+step: 173: food - 1604
+
+wonderful_maroon_ant died
+===================================================
+State of World
+step: 174: food - 1614
+
+===================================================
+State of World
+step: 175: food - 1624
+
+===================================================
+State of World
+step: 176: food - 1634
+
+===================================================
+State of World
+step: 177: food - 1644
+
+===================================================
+State of World
+step: 178: food - 1654
+
+===================================================
+State of World
+step: 179: food - 1664
+
+===================================================
+State of World
+step: 180: food - 1674
+
+===================================================
+State of World
+step: 181: food - 1684
+
+===================================================
+State of World
+step: 182: food - 1694
+
+===================================================
+State of World
+step: 183: food - 1704
+
+===================================================
+State of World
+step: 184: food - 1714
+
+===================================================
+State of World
+step: 185: food - 1724
+
+===================================================
+State of World
+step: 186: food - 1734
+
+===================================================
+State of World
+step: 187: food - 1744
+
+===================================================
+State of World
+step: 188: food - 1754
+
+===================================================
+State of World
+step: 189: food - 1764
+
+===================================================
+State of World
+step: 190: food - 1774
+
+===================================================
+State of World
+step: 191: food - 1784
+
+===================================================
+State of World
+step: 192: food - 1794
+
+===================================================
+State of World
+step: 193: food - 1804
+
+===================================================
+State of World
+step: 194: food - 1814
+
+===================================================
+State of World
+step: 195: food - 1824
+
+===================================================
+State of World
+step: 196: food - 1834
+
+===================================================
+State of World
+step: 197: food - 1844
+
+===================================================
+State of World
+step: 198: food - 1854
+
+===================================================
+State of World
+step: 199: food - 1864
+
+===================================================
+State of World
+step: 200: food - 1874
+
+===================================================
+State of World
+step: 201: food - 1884
+
+===================================================
+State of World
+step: 202: food - 1894
+
+===================================================
+State of World
+step: 203: food - 1904
+
+===================================================
+State of World
+step: 204: food - 1914
+
+===================================================
+State of World
+step: 205: food - 1924
+
+===================================================
+State of World
+step: 206: food - 1934
+
+===================================================
+State of World
+step: 207: food - 1944
+
+===================================================
+State of World
+step: 208: food - 1954
+
+===================================================
+State of World
+step: 209: food - 1964
+
+===================================================
+State of World
+step: 210: food - 1974
+
+===================================================
+State of World
+step: 211: food - 1984
+
+===================================================
+State of World
+step: 212: food - 1994
+
+===================================================
+State of World
+step: 213: food - 2004
+
+===================================================
+State of World
+step: 214: food - 2014
+
+===================================================
+State of World
+step: 215: food - 2024
+
+===================================================
+State of World
+step: 216: food - 2034
+
+===================================================
+State of World
+step: 217: food - 2044
+
+===================================================
+State of World
+step: 218: food - 2054
+
+===================================================
+State of World
+step: 219: food - 2064
+
+===================================================
+State of World
+step: 220: food - 2074
+
+===================================================
+State of World
+step: 221: food - 2084
+
+===================================================
+State of World
+step: 222: food - 2094
+
+===================================================
+State of World
+step: 223: food - 2104
+
+===================================================
+State of World
+step: 224: food - 2114
+
+===================================================
+State of World
+step: 225: food - 2124
+
+===================================================
+State of World
+step: 226: food - 2134
+
+===================================================
+State of World
+step: 227: food - 2144
+
+===================================================
+State of World
+step: 228: food - 2154
+
+===================================================
+State of World
+step: 229: food - 2164
+
+===================================================
+State of World
+step: 230: food - 2174
+
+===================================================
+State of World
+step: 231: food - 2184
+
+===================================================
+State of World
+step: 232: food - 2194
+
+===================================================
+State of World
+step: 233: food - 2204
+
+===================================================
+State of World
+step: 234: food - 2214
+
+===================================================
+State of World
+step: 235: food - 2224
+
+===================================================
+State of World
+step: 236: food - 2234
+
+===================================================
+State of World
+step: 237: food - 2244
+
+===================================================
+State of World
+step: 238: food - 2254
+
+===================================================
+State of World
+step: 239: food - 2264
+
+===================================================
+State of World
+step: 240: food - 2274
+
+===================================================
+State of World
+step: 241: food - 2284
+
+===================================================
+State of World
+step: 242: food - 2294
+
+===================================================
+State of World
+step: 243: food - 2304
+
+===================================================
+State of World
+step: 244: food - 2314
+
+===================================================
+State of World
+step: 245: food - 2324
+
+===================================================
+State of World
+step: 246: food - 2334
+
+===================================================
+State of World
+step: 247: food - 2344
+
+===================================================
+State of World
+step: 248: food - 2354
+
+===================================================
+State of World
+step: 249: food - 2364
+
+===================================================
+State of World
+step: 250: food - 2374
+
+===================================================
+State of World
+step: 251: food - 2384
+
+===================================================
+State of World
+step: 252: food - 2394
+
+===================================================
+State of World
+step: 253: food - 2404
+
+===================================================
+State of World
+step: 254: food - 2414
+
+===================================================
+State of World
+step: 255: food - 2424
+
+===================================================
+State of World
+step: 256: food - 2434
+
+===================================================
+State of World
+step: 257: food - 2444
+
+===================================================
+State of World
+step: 258: food - 2454
+
+===================================================
+State of World
+step: 259: food - 2464
+
+===================================================
+State of World
+step: 260: food - 2474
+
+===================================================
+State of World
+step: 261: food - 2484
+
+===================================================
+State of World
+step: 262: food - 2494
+
+===================================================
+State of World
+step: 263: food - 2504
+
+===================================================
+State of World
+step: 264: food - 2514
+
+===================================================
+State of World
+step: 265: food - 2524
+
+===================================================
+State of World
+step: 266: food - 2534
+
+===================================================
+State of World
+step: 267: food - 2544
+
+===================================================
+State of World
+step: 268: food - 2554
+
+===================================================
+State of World
+step: 269: food - 2564
+
+===================================================
+State of World
+step: 270: food - 2574
+
+===================================================
+State of World
+step: 271: food - 2584
+
+===================================================
+State of World
+step: 272: food - 2594
+
+===================================================
+State of World
+step: 273: food - 2604
+
+===================================================
+State of World
+step: 274: food - 2614
+
+===================================================
+State of World
+step: 275: food - 2624
+
+===================================================
+State of World
+step: 276: food - 2634
+
+===================================================
+State of World
+step: 277: food - 2644
+
+===================================================
+State of World
+step: 278: food - 2654
+
+===================================================
+State of World
+step: 279: food - 2664
+
+===================================================
+State of World
+step: 280: food - 2674
+
+===================================================
+State of World
+step: 281: food - 2684
+
+===================================================
+State of World
+step: 282: food - 2694
+
+===================================================
+State of World
+step: 283: food - 2704
+
+===================================================
+State of World
+step: 284: food - 2714
+
+===================================================
+State of World
+step: 285: food - 2724
+
+===================================================
+State of World
+step: 286: food - 2734
+
+===================================================
+State of World
+step: 287: food - 2744
+
+===================================================
+State of World
+step: 288: food - 2754
+
+===================================================
+State of World
+step: 289: food - 2764
+
+===================================================
+State of World
+step: 290: food - 2774
+
+===================================================
+State of World
+step: 291: food - 2784
+
+===================================================
+State of World
+step: 292: food - 2794
+
+===================================================
+State of World
+step: 293: food - 2804
+
+===================================================
+State of World
+step: 294: food - 2814
+
+===================================================
+State of World
+step: 295: food - 2824
+
+===================================================
+State of World
+step: 296: food - 2834
+
+===================================================
+State of World
+step: 297: food - 2844
+
+===================================================
+State of World
+step: 298: food - 2854
+
+===================================================
+State of World
+step: 299: food - 2864
+
+===================================================
+State of World
+step: 300: food - 2874
+
+===================================================
+State of World
+step: 301: food - 2884
+
+===================================================
+State of World
+step: 302: food - 2894
+
+===================================================
+State of World
+step: 303: food - 2904
+
+===================================================
+State of World
+step: 304: food - 2914
+
+===================================================
+State of World
+step: 305: food - 2924
+
+===================================================
+State of World
+step: 306: food - 2934
+
+===================================================
+State of World
+step: 307: food - 2944
+
+===================================================
+State of World
+step: 308: food - 2954
+
+===================================================
+State of World
+step: 309: food - 2964
+
+===================================================
+State of World
+step: 310: food - 2974
+
+===================================================
+State of World
+step: 311: food - 2984
+
+===================================================
+State of World
+step: 312: food - 2994
+
+===================================================
+State of World
+step: 313: food - 3004
+
+===================================================
+State of World
+step: 314: food - 3014
+
+===================================================
+State of World
+step: 315: food - 3024
+
+===================================================
+State of World
+step: 316: food - 3034
+
+===================================================
+State of World
+step: 317: food - 3044
+
+===================================================
+State of World
+step: 318: food - 3054
+
+===================================================
+State of World
+step: 319: food - 3064
+
+===================================================
+State of World
+step: 320: food - 3074
+
+===================================================
+State of World
+step: 321: food - 3084
+
+===================================================
+State of World
+step: 322: food - 3094
+
+===================================================
+State of World
+step: 323: food - 3104
+
+===================================================
+State of World
+step: 324: food - 3114
+
+===================================================
+State of World
+step: 325: food - 3124
+
+===================================================
+State of World
+step: 326: food - 3134
+
+===================================================
+State of World
+step: 327: food - 3144
+
+===================================================
+State of World
+step: 328: food - 3154
+
+===================================================
+State of World
+step: 329: food - 3164
+
+===================================================
+State of World
+step: 330: food - 3174
+
+===================================================
+State of World
+step: 331: food - 3184
+
+===================================================
+State of World
+step: 332: food - 3194
+
+===================================================
+State of World
+step: 333: food - 3204
+
+===================================================
+State of World
+step: 334: food - 3214
+
+===================================================
+State of World
+step: 335: food - 3224
+
+===================================================
+State of World
+step: 336: food - 3234
+
+===================================================
+State of World
+step: 337: food - 3244
+
+===================================================
+State of World
+step: 338: food - 3254
+
+===================================================
+State of World
+step: 339: food - 3264
+
+===================================================
+State of World
+step: 340: food - 3274
+
+===================================================
+State of World
+step: 341: food - 3284
+
+===================================================
+State of World
+step: 342: food - 3294
+
+===================================================
+State of World
+step: 343: food - 3304
+
+===================================================
+State of World
+step: 344: food - 3314
+
+===================================================
+State of World
+step: 345: food - 3324
+
+===================================================
+State of World
+step: 346: food - 3334
+
+===================================================
+State of World
+step: 347: food - 3344
+
+===================================================
+State of World
+step: 348: food - 3354
+
+===================================================
+State of World
+step: 349: food - 3364
+
+===================================================
+State of World
+step: 350: food - 3374
+
+===================================================
+State of World
+step: 351: food - 3384
+
+===================================================
+State of World
+step: 352: food - 3394
+
+===================================================
+State of World
+step: 353: food - 3404
+
+===================================================
+State of World
+step: 354: food - 3414
+
+===================================================
+State of World
+step: 355: food - 3424
+
+===================================================
+State of World
+step: 356: food - 3434
+
+===================================================
+State of World
+step: 357: food - 3444
+
+===================================================
+State of World
+step: 358: food - 3454
+
+===================================================
+State of World
+step: 359: food - 3464
+
+===================================================
+State of World
+step: 360: food - 3474
+
+===================================================
+State of World
+step: 361: food - 3484
+
+===================================================
+State of World
+step: 362: food - 3494
+
+===================================================
+State of World
+step: 363: food - 3504
+
+===================================================
+State of World
+step: 364: food - 3514
+
+===================================================
+State of World
+step: 365: food - 3524
+
+===================================================
+State of World
+step: 366: food - 3534
+
+===================================================
+State of World
+step: 367: food - 3544
+
+===================================================
+State of World
+step: 368: food - 3554
+
+===================================================
+State of World
+step: 369: food - 3564
+
+===================================================
+State of World
+step: 370: food - 3574
+
+===================================================
+State of World
+step: 371: food - 3584
+
+===================================================
+State of World
+step: 372: food - 3594
+
+===================================================
+State of World
+step: 373: food - 3604
+
+===================================================
+State of World
+step: 374: food - 3614
+
+===================================================
+State of World
+step: 375: food - 3624
+
+===================================================
+State of World
+step: 376: food - 3634
+
+===================================================
+State of World
+step: 377: food - 3644
+
+===================================================
+State of World
+step: 378: food - 3654
+
+===================================================
+State of World
+step: 379: food - 3664
+
+===================================================
+State of World
+step: 380: food - 3674
+
+===================================================
+State of World
+step: 381: food - 3684
+
+===================================================
+State of World
+step: 382: food - 3694
+
+===================================================
+State of World
+step: 383: food - 3704
+
+===================================================
+State of World
+step: 384: food - 3714
+
+===================================================
+State of World
+step: 385: food - 3724
+
+===================================================
+State of World
+step: 386: food - 3734
+
+===================================================
+State of World
+step: 387: food - 3744
+
+===================================================
+State of World
+step: 388: food - 3754
+
+===================================================
+State of World
+step: 389: food - 3764
+
+===================================================
+State of World
+step: 390: food - 3774
+
+===================================================
+State of World
+step: 391: food - 3784
+
+===================================================
+State of World
+step: 392: food - 3794
+
+===================================================
+State of World
+step: 393: food - 3804
+
+===================================================
+State of World
+step: 394: food - 3814
+
+===================================================
+State of World
+step: 395: food - 3824
+
+===================================================
+State of World
+step: 396: food - 3834
+
+===================================================
+State of World
+step: 397: food - 3844
+
+===================================================
+State of World
+step: 398: food - 3854
+
+===================================================
+State of World
+step: 399: food - 3864
+
+===================================================
+State of World
+step: 400: food - 3874
+
+===================================================
+State of World
+step: 401: food - 3884
+
+===================================================
+State of World
+step: 402: food - 3894
+
+===================================================
+State of World
+step: 403: food - 3904
+
+===================================================
+State of World
+step: 404: food - 3914
+
+===================================================
+State of World
+step: 405: food - 3924
+
+===================================================
+State of World
+step: 406: food - 3934
+
+===================================================
+State of World
+step: 407: food - 3944
+
+===================================================
+State of World
+step: 408: food - 3954
+
+===================================================
+State of World
+step: 409: food - 3964
+
+===================================================
+State of World
+step: 410: food - 3974
+
+===================================================
+State of World
+step: 411: food - 3984
+
+===================================================
+State of World
+step: 412: food - 3994
+
+===================================================
+State of World
+step: 413: food - 4004
+
+===================================================
+State of World
+step: 414: food - 4014
+
+===================================================
+State of World
+step: 415: food - 4024
+
+===================================================
+State of World
+step: 416: food - 4034
+
+===================================================
+State of World
+step: 417: food - 4044
+
+===================================================
+State of World
+step: 418: food - 4054
+
+===================================================
+State of World
+step: 419: food - 4064
+
+===================================================
+State of World
+step: 420: food - 4074
+
+===================================================
+State of World
+step: 421: food - 4084
+
+===================================================
+State of World
+step: 422: food - 4094
+
+===================================================
+State of World
+step: 423: food - 4104
+
+===================================================
+State of World
+step: 424: food - 4114
+
+===================================================
+State of World
+step: 425: food - 4124
+
+===================================================
+State of World
+step: 426: food - 4134
+
+===================================================
+State of World
+step: 427: food - 4144
+
+===================================================
+State of World
+step: 428: food - 4154
+
+===================================================
+State of World
+step: 429: food - 4164
+
+===================================================
+State of World
+step: 430: food - 4174
+
+===================================================
+State of World
+step: 431: food - 4184
+
+===================================================
+State of World
+step: 432: food - 4194
+
+===================================================
+State of World
+step: 433: food - 4204
+
+===================================================
+State of World
+step: 434: food - 4214
+
+===================================================
+State of World
+step: 435: food - 4224
+
+===================================================
+State of World
+step: 436: food - 4234
+
+===================================================
+State of World
+step: 437: food - 4244
+
+===================================================
+State of World
+step: 438: food - 4254
+
+===================================================
+State of World
+step: 439: food - 4264
+
+===================================================
+State of World
+step: 440: food - 4274
+
+===================================================
+State of World
+step: 441: food - 4284
+
+===================================================
+State of World
+step: 442: food - 4294
+
+===================================================
+State of World
+step: 443: food - 4304
+
+===================================================
+State of World
+step: 444: food - 4314
+
+===================================================
+State of World
+step: 445: food - 4324
+
+===================================================
+State of World
+step: 446: food - 4334
+
+===================================================
+State of World
+step: 447: food - 4344
+
+===================================================
+State of World
+step: 448: food - 4354
+
+===================================================
+State of World
+step: 449: food - 4364
+
+===================================================
+State of World
+step: 450: food - 4374
+
+===================================================
+State of World
+step: 451: food - 4384
+
+===================================================
+State of World
+step: 452: food - 4394
+
+===================================================
+State of World
+step: 453: food - 4404
+
+===================================================
+State of World
+step: 454: food - 4414
+
+===================================================
+State of World
+step: 455: food - 4424
+
+===================================================
+State of World
+step: 456: food - 4434
+
+===================================================
+State of World
+step: 457: food - 4444
+
+===================================================
+State of World
+step: 458: food - 4454
+
+===================================================
+State of World
+step: 459: food - 4464
+
+===================================================
+State of World
+step: 460: food - 4474
+
+===================================================
+State of World
+step: 461: food - 4484
+
+===================================================
+State of World
+step: 462: food - 4494
+
+===================================================
+State of World
+step: 463: food - 4504
+
+===================================================
+State of World
+step: 464: food - 4514
+
+===================================================
+State of World
+step: 465: food - 4524
+
+===================================================
+State of World
+step: 466: food - 4534
+
+===================================================
+State of World
+step: 467: food - 4544
+
+===================================================
+State of World
+step: 468: food - 4554
+
+===================================================
+State of World
+step: 469: food - 4564
+
+===================================================
+State of World
+step: 470: food - 4574
+
+===================================================
+State of World
+step: 471: food - 4584
+
+===================================================
+State of World
+step: 472: food - 4594
+
+===================================================
+State of World
+step: 473: food - 4604
+
+===================================================
+State of World
+step: 474: food - 4614
+
+===================================================
+State of World
+step: 475: food - 4624
+
+===================================================
+State of World
+step: 476: food - 4634
+
+===================================================
+State of World
+step: 477: food - 4644
+
+===================================================
+State of World
+step: 478: food - 4654
+
+===================================================
+State of World
+step: 479: food - 4664
+
+===================================================
+State of World
+step: 480: food - 4674
+
+===================================================
+State of World
+step: 481: food - 4684
+
+===================================================
+State of World
+step: 482: food - 4694
+
+===================================================
+State of World
+step: 483: food - 4704
+
+===================================================
+State of World
+step: 484: food - 4714
+
+===================================================
+State of World
+step: 485: food - 4724
+
+===================================================
+State of World
+step: 486: food - 4734
+
+===================================================
+State of World
+step: 487: food - 4744
+
+===================================================
+State of World
+step: 488: food - 4754
+
+===================================================
+State of World
+step: 489: food - 4764
+
+===================================================
+State of World
+step: 490: food - 4774
+
+===================================================
+State of World
+step: 491: food - 4784
+
+===================================================
+State of World
+step: 492: food - 4794
+
+===================================================
+State of World
+step: 493: food - 4804
+
+===================================================
+State of World
+step: 494: food - 4814
+
+===================================================
+State of World
+step: 495: food - 4824
+
+===================================================
+State of World
+step: 496: food - 4834
+
+===================================================
+State of World
+step: 497: food - 4844
+
+===================================================
+State of World
+step: 498: food - 4854
+
+===================================================
+State of World
+step: 499: food - 4864
+
+===================================================
+Longest Living:
+7/dominant_silver_hornet:
+lifespan - 162
+strength - 0
+children - 4
+Total Born: 34

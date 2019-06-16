@@ -1,0 +1,3681 @@
+===================================================
+State of World
+step: 0: food - 20
+
+0/melodic_gray_bug:
+lifespan - 0
+strength - 4
+children - 0
+melodic_gray_bug looked at adverse_scarlet_quokka
+
+1/missing_azure_wombat:
+lifespan - 0
+strength - 4
+children - 0
+
+2/clever_brown_donkey:
+lifespan - 0
+strength - 4
+children - 0
+clever_brown_donkey ate
+
+3/filthy_ivory_lizard:
+lifespan - 0
+strength - 4
+children - 0
+filthy_ivory_lizard looked at sweet_copper_blackbird
+
+4/pleased_chocolate_pike:
+lifespan - 0
+strength - 4
+children - 0
+pleased_chocolate_pike ran
+
+5/hilarious_maroon_parakeet:
+lifespan - 0
+strength - 4
+children - 0
+
+6/modern_chocolate_gazelle:
+lifespan - 0
+strength - 4
+children - 0
+
+7/gradual_lavender_ermine:
+lifespan - 0
+strength - 4
+children - 0
+
+8/quick_moccasin_snail:
+lifespan - 0
+strength - 4
+children - 0
+quick_moccasin_snail looked at grotesque_lavender_planarian
+
+9/diplomatic_black_catfish:
+lifespan - 0
+strength - 4
+children - 0
+diplomatic_black_catfish ate
+
+10/splendid_tomato_louse:
+lifespan - 0
+strength - 4
+children - 0
+splendid_tomato_louse looked at interested_tomato_tapir
+
+11/solar_blue_ermine:
+lifespan - 0
+strength - 4
+children - 0
+
+12/eldest_teal_rabbit:
+lifespan - 0
+strength - 4
+children - 0
+
+13/bright_azure_angelfish:
+lifespan - 0
+strength - 4
+children - 0
+bright_azure_angelfish ate
+
+14/interested_tomato_tapir:
+lifespan - 0
+strength - 4
+children - 0
+interested_tomato_tapir ate
+
+15/profitable_moccasin_ocelot:
+lifespan - 0
+strength - 4
+children - 0
+profitable_moccasin_ocelot ran
+
+16/psychiatric_coffee_damselfly:
+lifespan - 0
+strength - 4
+children - 0
+
+17/adverse_scarlet_quokka:
+lifespan - 0
+strength - 4
+children - 0
+adverse_scarlet_quokka ate
+
+18/meaningful_coffee_shark:
+lifespan - 0
+strength - 4
+children - 0
+
+19/local_purple_sloth:
+lifespan - 0
+strength - 4
+children - 0
+local_purple_sloth looked at grotesque_lavender_planarian
+
+20/green_magenta_snipe:
+lifespan - 0
+strength - 4
+children - 0
+
+21/external_lime_rabbit:
+lifespan - 0
+strength - 4
+children - 0
+
+22/efficient_teal_squid:
+lifespan - 0
+strength - 4
+children - 0
+efficient_teal_squid ate
+
+23/green_aqua_hoverfly:
+lifespan - 0
+strength - 4
+children - 0
+
+24/social_copper_capybara:
+lifespan - 0
+strength - 4
+children - 0
+
+25/sweet_copper_blackbird:
+lifespan - 0
+strength - 4
+children - 0
+
+26/grotesque_lavender_planarian:
+lifespan - 0
+strength - 4
+children - 0
+grotesque_lavender_planarian looked at gradual_lavender_ermine
+
+27/sad_crimson_chimpanzee:
+lifespan - 0
+strength - 4
+children - 0
+sad_crimson_chimpanzee ate
+
+28/familiar_aquamarine_crayfish:
+lifespan - 0
+strength - 4
+children - 0
+
+29/patient_gray_hare:
+lifespan - 0
+strength - 4
+children - 0
+patient_gray_hare ate
+
+===================================================
+State of World
+step: 1: food - 22
+
+0/melodic_gray_bug:
+lifespan - 1
+strength - 3
+children - 0
+melodic_gray_bug looked at meaningful_coffee_shark
+
+1/missing_azure_wombat:
+lifespan - 1
+strength - 3
+children - 0
+missing_azure_wombat ran
+
+2/clever_brown_donkey:
+lifespan - 1
+strength - 5
+children - 0
+clever_brown_donkey ran
+
+3/filthy_ivory_lizard:
+lifespan - 1
+strength - 3
+children - 0
+filthy_ivory_lizard ran
+
+4/pleased_chocolate_pike:
+lifespan - 1
+strength - 3
+children - 0
+
+5/hilarious_maroon_parakeet:
+lifespan - 1
+strength - 3
+children - 0
+
+6/modern_chocolate_gazelle:
+lifespan - 1
+strength - 3
+children - 0
+modern_chocolate_gazelle ate
+
+7/gradual_lavender_ermine:
+lifespan - 1
+strength - 3
+children - 0
+gradual_lavender_ermine ran
+
+8/quick_moccasin_snail:
+lifespan - 1
+strength - 3
+children - 0
+quick_moccasin_snail attacked grotesque_lavender_planarian
+
+9/diplomatic_black_catfish:
+lifespan - 1
+strength - 5
+children - 0
+diplomatic_black_catfish ran
+
+10/splendid_tomato_louse:
+lifespan - 1
+strength - 3
+children - 0
+splendid_tomato_louse attacked interested_tomato_tapir
+
+11/solar_blue_ermine:
+lifespan - 1
+strength - 3
+children - 0
+
+12/eldest_teal_rabbit:
+lifespan - 1
+strength - 3
+children - 0
+eldest_teal_rabbit looked at sad_crimson_chimpanzee
+
+13/bright_azure_angelfish:
+lifespan - 1
+strength - 5
+children - 0
+bright_azure_angelfish ate
+
+14/interested_tomato_tapir:
+lifespan - 1
+strength - 2
+children - 0
+
+15/profitable_moccasin_ocelot:
+lifespan - 1
+strength - 3
+children - 0
+profitable_moccasin_ocelot ate
+
+16/psychiatric_coffee_damselfly:
+lifespan - 1
+strength - 3
+children - 0
+psychiatric_coffee_damselfly ate
+
+17/adverse_scarlet_quokka:
+lifespan - 1
+strength - 5
+children - 0
+adverse_scarlet_quokka looked at eldest_teal_rabbit
+
+18/meaningful_coffee_shark:
+lifespan - 1
+strength - 3
+children - 0
+
+19/local_purple_sloth:
+lifespan - 1
+strength - 3
+children - 0
+local_purple_sloth ran
+
+20/green_magenta_snipe:
+lifespan - 1
+strength - 3
+children - 0
+
+21/external_lime_rabbit:
+lifespan - 1
+strength - 3
+children - 0
+external_lime_rabbit ate
+
+22/efficient_teal_squid:
+lifespan - 1
+strength - 5
+children - 0
+efficient_teal_squid looked at patient_gray_hare
+
+23/green_aqua_hoverfly:
+lifespan - 1
+strength - 3
+children - 0
+green_aqua_hoverfly ate
+
+24/social_copper_capybara:
+lifespan - 1
+strength - 3
+children - 0
+social_copper_capybara looked at adverse_scarlet_quokka
+
+25/sweet_copper_blackbird:
+lifespan - 1
+strength - 3
+children - 0
+
+grotesque_lavender_planarian died
+27/sad_crimson_chimpanzee:
+lifespan - 1
+strength - 5
+children - 0
+sad_crimson_chimpanzee looked at green_aqua_hoverfly
+
+28/familiar_aquamarine_crayfish:
+lifespan - 1
+strength - 3
+children - 0
+familiar_aquamarine_crayfish looked at meaningful_coffee_shark
+
+29/patient_gray_hare:
+lifespan - 1
+strength - 5
+children - 0
+patient_gray_hare looked at pleased_chocolate_pike
+
+===================================================
+State of World
+step: 2: food - 26
+
+0/melodic_gray_bug:
+lifespan - 2
+strength - 2
+children - 0
+melodic_gray_bug looked at local_purple_sloth
+
+1/missing_azure_wombat:
+lifespan - 2
+strength - 2
+children - 0
+
+2/clever_brown_donkey:
+lifespan - 2
+strength - 4
+children - 0
+clever_brown_donkey looked at green_aqua_hoverfly
+
+3/filthy_ivory_lizard:
+lifespan - 2
+strength - 2
+children - 0
+filthy_ivory_lizard ran
+
+4/pleased_chocolate_pike:
+lifespan - 2
+strength - 2
+children - 0
+pleased_chocolate_pike ate
+
+5/hilarious_maroon_parakeet:
+lifespan - 2
+strength - 2
+children - 0
+
+6/modern_chocolate_gazelle:
+lifespan - 2
+strength - 4
+children - 0
+modern_chocolate_gazelle ran
+
+7/gradual_lavender_ermine:
+lifespan - 2
+strength - 2
+children - 0
+gradual_lavender_ermine ran
+
+8/quick_moccasin_snail:
+lifespan - 2
+strength - 5
+children - 0
+quick_moccasin_snail ate
+
+9/diplomatic_black_catfish:
+lifespan - 2
+strength - 4
+children - 0
+
+10/splendid_tomato_louse:
+lifespan - 2
+strength - 5
+children - 0
+splendid_tomato_louse ate
+
+11/solar_blue_ermine:
+lifespan - 2
+strength - 2
+children - 0
+solar_blue_ermine ran
+
+12/eldest_teal_rabbit:
+lifespan - 2
+strength - 2
+children - 0
+eldest_teal_rabbit attacked sad_crimson_chimpanzee
+
+13/bright_azure_angelfish:
+lifespan - 2
+strength - 6
+children - 0
+bright_azure_angelfish ate
+
+14/interested_tomato_tapir:
+lifespan - 2
+strength - 1
+children - 0
+interested_tomato_tapir ate
+
+15/profitable_moccasin_ocelot:
+lifespan - 2
+strength - 4
+children - 0
+profitable_moccasin_ocelot looked at interested_tomato_tapir
+
+16/psychiatric_coffee_damselfly:
+lifespan - 2
+strength - 4
+children - 0
+
+17/adverse_scarlet_quokka:
+lifespan - 2
+strength - 4
+children - 0
+adverse_scarlet_quokka ate
+
+18/meaningful_coffee_shark:
+lifespan - 2
+strength - 2
+children - 0
+meaningful_coffee_shark ran
+
+19/local_purple_sloth:
+lifespan - 2
+strength - 2
+children - 0
+local_purple_sloth ate
+
+20/green_magenta_snipe:
+lifespan - 2
+strength - 2
+children - 0
+
+21/external_lime_rabbit:
+lifespan - 2
+strength - 4
+children - 0
+
+22/efficient_teal_squid:
+lifespan - 2
+strength - 4
+children - 0
+efficient_teal_squid ate
+
+23/green_aqua_hoverfly:
+lifespan - 2
+strength - 4
+children - 0
+
+24/social_copper_capybara:
+lifespan - 2
+strength - 2
+children - 0
+social_copper_capybara ate
+
+25/sweet_copper_blackbird:
+lifespan - 2
+strength - 2
+children - 0
+sweet_copper_blackbird looked at missing_azure_wombat
+
+27/sad_crimson_chimpanzee:
+lifespan - 2
+strength - 2
+children - 0
+
+28/familiar_aquamarine_crayfish:
+lifespan - 2
+strength - 2
+children - 0
+familiar_aquamarine_crayfish ate
+
+29/patient_gray_hare:
+lifespan - 2
+strength - 4
+children - 0
+patient_gray_hare ran
+
+===================================================
+State of World
+step: 3: food - 26
+
+0/melodic_gray_bug:
+lifespan - 3
+strength - 1
+children - 0
+melodic_gray_bug looked at green_magenta_snipe
+
+1/missing_azure_wombat:
+lifespan - 3
+strength - 1
+children - 0
+
+2/clever_brown_donkey:
+lifespan - 3
+strength - 3
+children - 0
+clever_brown_donkey attacked green_aqua_hoverfly
+
+3/filthy_ivory_lizard:
+lifespan - 3
+strength - 1
+children - 0
+filthy_ivory_lizard looked at social_copper_capybara
+
+4/pleased_chocolate_pike:
+lifespan - 3
+strength - 3
+children - 0
+pleased_chocolate_pike ate
+
+5/hilarious_maroon_parakeet:
+lifespan - 3
+strength - 1
+children - 0
+hilarious_maroon_parakeet ate
+
+6/modern_chocolate_gazelle:
+lifespan - 3
+strength - 3
+children - 0
+modern_chocolate_gazelle looked at local_purple_sloth
+
+7/gradual_lavender_ermine:
+lifespan - 3
+strength - 1
+children - 0
+gradual_lavender_ermine ran
+
+8/quick_moccasin_snail:
+lifespan - 3
+strength - 6
+children - 0
+
+9/diplomatic_black_catfish:
+lifespan - 3
+strength - 3
+children - 0
+
+10/splendid_tomato_louse:
+lifespan - 3
+strength - 6
+children - 0
+
+11/solar_blue_ermine:
+lifespan - 3
+strength - 1
+children - 0
+solar_blue_ermine looked at local_purple_sloth
+
+12/eldest_teal_rabbit:
+lifespan - 3
+strength - 3
+children - 0
+eldest_teal_rabbit ran
+
+13/bright_azure_angelfish:
+lifespan - 3
+strength - 7
+children - 0
+bright_azure_angelfish looked at gradual_lavender_ermine
+
+14/interested_tomato_tapir:
+lifespan - 3
+strength - 2
+children - 0
+interested_tomato_tapir ate
+
+15/profitable_moccasin_ocelot:
+lifespan - 3
+strength - 3
+children - 0
+profitable_moccasin_ocelot ran
+
+16/psychiatric_coffee_damselfly:
+lifespan - 3
+strength - 3
+children - 0
+psychiatric_coffee_damselfly looked at melodic_gray_bug
+
+17/adverse_scarlet_quokka:
+lifespan - 3
+strength - 5
+children - 0
+adverse_scarlet_quokka ate
+
+18/meaningful_coffee_shark:
+lifespan - 3
+strength - 1
+children - 0
+
+19/local_purple_sloth:
+lifespan - 3
+strength - 3
+children - 0
+
+20/green_magenta_snipe:
+lifespan - 3
+strength - 1
+children - 0
+
+21/external_lime_rabbit:
+lifespan - 3
+strength - 3
+children - 0
+external_lime_rabbit ran
+
+22/efficient_teal_squid:
+lifespan - 3
+strength - 5
+children - 0
+efficient_teal_squid attacked patient_gray_hare
+
+green_aqua_hoverfly died
+24/social_copper_capybara:
+lifespan - 3
+strength - 3
+children - 0
+social_copper_capybara ate
+
+25/sweet_copper_blackbird:
+lifespan - 3
+strength - 1
+children - 0
+sweet_copper_blackbird looked at clever_brown_donkey
+
+27/sad_crimson_chimpanzee:
+lifespan - 3
+strength - 1
+children - 0
+
+28/familiar_aquamarine_crayfish:
+lifespan - 3
+strength - 3
+children - 0
+familiar_aquamarine_crayfish looked at adverse_scarlet_quokka
+
+patient_gray_hare died
+===================================================
+State of World
+step: 4: food - 31
+
+melodic_gray_bug died
+missing_azure_wombat died
+2/clever_brown_donkey:
+lifespan - 4
+strength - 5
+children - 0
+clever_brown_donkey attacked green_aqua_hoverfly
+
+filthy_ivory_lizard died
+4/pleased_chocolate_pike:
+lifespan - 4
+strength - 4
+children - 0
+pleased_chocolate_pike ate
+
+5/hilarious_maroon_parakeet:
+lifespan - 4
+strength - 2
+children - 0
+
+6/modern_chocolate_gazelle:
+lifespan - 4
+strength - 2
+children - 0
+
+gradual_lavender_ermine died
+8/quick_moccasin_snail:
+lifespan - 4
+strength - 5
+children - 0
+quick_moccasin_snail looked at familiar_aquamarine_crayfish
+
+9/diplomatic_black_catfish:
+lifespan - 4
+strength - 2
+children - 0
+
+10/splendid_tomato_louse:
+lifespan - 4
+strength - 5
+children - 0
+splendid_tomato_louse attacked interested_tomato_tapir
+
+solar_blue_ermine died
+12/eldest_teal_rabbit:
+lifespan - 4
+strength - 2
+children - 0
+eldest_teal_rabbit ran
+
+13/bright_azure_angelfish:
+lifespan - 4
+strength - 6
+children - 0
+bright_azure_angelfish looked at quick_moccasin_snail
+
+interested_tomato_tapir died
+15/profitable_moccasin_ocelot:
+lifespan - 4
+strength - 2
+children - 0
+profitable_moccasin_ocelot ran
+
+16/psychiatric_coffee_damselfly:
+lifespan - 4
+strength - 2
+children - 0
+
+17/adverse_scarlet_quokka:
+lifespan - 4
+strength - 6
+children - 0
+adverse_scarlet_quokka ate
+
+meaningful_coffee_shark died
+19/local_purple_sloth:
+lifespan - 4
+strength - 2
+children - 0
+local_purple_sloth ate
+
+green_magenta_snipe died
+21/external_lime_rabbit:
+lifespan - 4
+strength - 2
+children - 0
+
+22/efficient_teal_squid:
+lifespan - 4
+strength - 8
+children - 0
+
+24/social_copper_capybara:
+lifespan - 4
+strength - 4
+children - 0
+social_copper_capybara ate
+
+sweet_copper_blackbird died
+sad_crimson_chimpanzee died
+28/familiar_aquamarine_crayfish:
+lifespan - 4
+strength - 2
+children - 0
+familiar_aquamarine_crayfish looked at psychiatric_coffee_damselfly
+
+===================================================
+State of World
+step: 5: food - 37
+
+2/clever_brown_donkey:
+lifespan - 5
+strength - 4
+children - 0
+clever_brown_donkey attacked green_aqua_hoverfly
+
+4/pleased_chocolate_pike:
+lifespan - 5
+strength - 5
+children - 0
+pleased_chocolate_pike ate
+
+5/hilarious_maroon_parakeet:
+lifespan - 5
+strength - 1
+children - 0
+
+6/modern_chocolate_gazelle:
+lifespan - 5
+strength - 1
+children - 0
+modern_chocolate_gazelle attacked local_purple_sloth
+
+8/quick_moccasin_snail:
+lifespan - 5
+strength - 4
+children - 0
+quick_moccasin_snail looked at social_copper_capybara
+
+9/diplomatic_black_catfish:
+lifespan - 5
+strength - 1
+children - 0
+diplomatic_black_catfish ran
+
+10/splendid_tomato_louse:
+lifespan - 5
+strength - 8
+children - 0
+
+12/eldest_teal_rabbit:
+lifespan - 5
+strength - 1
+children - 0
+eldest_teal_rabbit ran
+
+13/bright_azure_angelfish:
+lifespan - 5
+strength - 5
+children - 0
+bright_azure_angelfish looked at diplomatic_black_catfish
+
+15/profitable_moccasin_ocelot:
+lifespan - 5
+strength - 1
+children - 0
+profitable_moccasin_ocelot ran
+
+16/psychiatric_coffee_damselfly:
+lifespan - 5
+strength - 1
+children - 0
+psychiatric_coffee_damselfly looked at familiar_aquamarine_crayfish
+
+17/adverse_scarlet_quokka:
+lifespan - 5
+strength - 7
+children - 0
+adverse_scarlet_quokka looked at bright_azure_angelfish
+
+19/local_purple_sloth:
+lifespan - 5
+strength - 2
+children - 0
+local_purple_sloth ate
+
+21/external_lime_rabbit:
+lifespan - 5
+strength - 1
+children - 0
+
+22/efficient_teal_squid:
+lifespan - 5
+strength - 7
+children - 0
+efficient_teal_squid attacked patient_gray_hare
+
+24/social_copper_capybara:
+lifespan - 5
+strength - 5
+children - 0
+social_copper_capybara ate
+
+28/familiar_aquamarine_crayfish:
+lifespan - 5
+strength - 1
+children - 0
+familiar_aquamarine_crayfish looked at profitable_moccasin_ocelot
+
+===================================================
+State of World
+step: 6: food - 44
+
+2/clever_brown_donkey:
+lifespan - 6
+strength - 3
+children - 0
+clever_brown_donkey attacked green_aqua_hoverfly
+
+4/pleased_chocolate_pike:
+lifespan - 6
+strength - 6
+children - 0
+pleased_chocolate_pike ate
+
+hilarious_maroon_parakeet died
+6/modern_chocolate_gazelle:
+lifespan - 6
+strength - 1
+children - 0
+modern_chocolate_gazelle ran
+
+8/quick_moccasin_snail:
+lifespan - 6
+strength - 3
+children - 0
+
+diplomatic_black_catfish died
+10/splendid_tomato_louse:
+lifespan - 6
+strength - 7
+children - 0
+splendid_tomato_louse ran
+
+eldest_teal_rabbit died
+13/bright_azure_angelfish:
+lifespan - 6
+strength - 4
+children - 0
+bright_azure_angelfish ate
+
+profitable_moccasin_ocelot died
+psychiatric_coffee_damselfly died
+17/adverse_scarlet_quokka:
+lifespan - 6
+strength - 6
+children - 0
+adverse_scarlet_quokka ate
+
+19/local_purple_sloth:
+lifespan - 6
+strength - 3
+children - 0
+local_purple_sloth looked at clever_brown_donkey
+
+external_lime_rabbit died
+22/efficient_teal_squid:
+lifespan - 6
+strength - 5
+children - 0
+efficient_teal_squid ran
+
+24/social_copper_capybara:
+lifespan - 6
+strength - 6
+children - 0
+social_copper_capybara ran
+
+familiar_aquamarine_crayfish died
+===================================================
+State of World
+step: 7: food - 51
+
+2/clever_brown_donkey:
+lifespan - 7
+strength - 2
+children - 0
+clever_brown_donkey attacked green_aqua_hoverfly
+
+4/pleased_chocolate_pike:
+lifespan - 7
+strength - 7
+children - 0
+pleased_chocolate_pike ate
+
+modern_chocolate_gazelle died
+8/quick_moccasin_snail:
+lifespan - 7
+strength - 2
+children - 0
+quick_moccasin_snail looked at clever_brown_donkey
+
+10/splendid_tomato_louse:
+lifespan - 7
+strength - 6
+children - 0
+splendid_tomato_louse ran
+
+13/bright_azure_angelfish:
+lifespan - 7
+strength - 5
+children - 0
+bright_azure_angelfish attacked diplomatic_black_catfish
+
+17/adverse_scarlet_quokka:
+lifespan - 7
+strength - 7
+children - 0
+adverse_scarlet_quokka ate
+
+19/local_purple_sloth:
+lifespan - 7
+strength - 2
+children - 0
+local_purple_sloth looked at social_copper_capybara
+
+22/efficient_teal_squid:
+lifespan - 7
+strength - 4
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 7
+strength - 5
+children - 0
+social_copper_capybara looked at local_purple_sloth
+
+===================================================
+State of World
+step: 8: food - 58
+
+2/clever_brown_donkey:
+lifespan - 8
+strength - 1
+children - 0
+clever_brown_donkey attacked green_aqua_hoverfly
+
+4/pleased_chocolate_pike:
+lifespan - 8
+strength - 8
+children - 0
+pleased_chocolate_pike looked at quick_moccasin_snail
+
+8/quick_moccasin_snail:
+lifespan - 8
+strength - 1
+children - 0
+quick_moccasin_snail looked at pleased_chocolate_pike
+
+10/splendid_tomato_louse:
+lifespan - 8
+strength - 5
+children - 0
+splendid_tomato_louse looked at clever_brown_donkey
+
+13/bright_azure_angelfish:
+lifespan - 8
+strength - 4
+children - 0
+
+17/adverse_scarlet_quokka:
+lifespan - 8
+strength - 8
+children - 0
+adverse_scarlet_quokka ran
+
+19/local_purple_sloth:
+lifespan - 8
+strength - 1
+children - 0
+local_purple_sloth ate
+
+22/efficient_teal_squid:
+lifespan - 8
+strength - 5
+children - 0
+
+24/social_copper_capybara:
+lifespan - 8
+strength - 4
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 9: food - 66
+
+clever_brown_donkey died
+4/pleased_chocolate_pike:
+lifespan - 9
+strength - 7
+children - 0
+pleased_chocolate_pike attacked quick_moccasin_snail
+
+quick_moccasin_snail died
+10/splendid_tomato_louse:
+lifespan - 9
+strength - 4
+children - 0
+splendid_tomato_louse ate
+
+13/bright_azure_angelfish:
+lifespan - 9
+strength - 3
+children - 0
+
+17/adverse_scarlet_quokka:
+lifespan - 9
+strength - 7
+children - 0
+adverse_scarlet_quokka ate
+
+19/local_purple_sloth:
+lifespan - 9
+strength - 2
+children - 0
+local_purple_sloth ran
+
+22/efficient_teal_squid:
+lifespan - 9
+strength - 4
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 9
+strength - 5
+children - 0
+social_copper_capybara looked at adverse_scarlet_quokka
+
+===================================================
+State of World
+step: 10: food - 73
+
+4/pleased_chocolate_pike:
+lifespan - 10
+strength - 7
+children - 0
+pleased_chocolate_pike ate
+
+10/splendid_tomato_louse:
+lifespan - 10
+strength - 5
+children - 0
+splendid_tomato_louse attacked clever_brown_donkey
+
+13/bright_azure_angelfish:
+lifespan - 10
+strength - 2
+children - 0
+bright_azure_angelfish looked at social_copper_capybara
+
+17/adverse_scarlet_quokka:
+lifespan - 10
+strength - 8
+children - 0
+adverse_scarlet_quokka ate
+
+19/local_purple_sloth:
+lifespan - 10
+strength - 1
+children - 0
+local_purple_sloth ate
+
+22/efficient_teal_squid:
+lifespan - 10
+strength - 5
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 10
+strength - 4
+children - 0
+social_copper_capybara ran
+
+===================================================
+State of World
+step: 11: food - 79
+
+4/pleased_chocolate_pike:
+lifespan - 11
+strength - 8
+children - 0
+pleased_chocolate_pike ate
+
+10/splendid_tomato_louse:
+lifespan - 11
+strength - 4
+children - 0
+splendid_tomato_louse attacked clever_brown_donkey
+
+13/bright_azure_angelfish:
+lifespan - 11
+strength - 1
+children - 0
+bright_azure_angelfish attacked social_copper_capybara
+
+17/adverse_scarlet_quokka:
+lifespan - 11
+strength - 9
+children - 0
+adverse_scarlet_quokka looked at adverse_scarlet_quokka
+
+19/local_purple_sloth:
+lifespan - 11
+strength - 2
+children - 0
+local_purple_sloth looked at pleased_chocolate_pike
+
+22/efficient_teal_squid:
+lifespan - 11
+strength - 6
+children - 0
+efficient_teal_squid looked at pleased_chocolate_pike
+
+24/social_copper_capybara:
+lifespan - 11
+strength - 2
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 12: food - 87
+
+4/pleased_chocolate_pike:
+lifespan - 12
+strength - 9
+children - 0
+pleased_chocolate_pike ate
+
+10/splendid_tomato_louse:
+lifespan - 12
+strength - 3
+children - 0
+splendid_tomato_louse looked at social_copper_capybara
+
+13/bright_azure_angelfish:
+lifespan - 12
+strength - 1
+children - 0
+
+17/adverse_scarlet_quokka:
+lifespan - 12
+strength - 8
+children - 0
+adverse_scarlet_quokka ate
+
+19/local_purple_sloth:
+lifespan - 12
+strength - 1
+children - 0
+local_purple_sloth ate
+
+22/efficient_teal_squid:
+lifespan - 12
+strength - 5
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 12
+strength - 3
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 13: food - 92
+
+4/pleased_chocolate_pike:
+lifespan - 13
+strength - 10
+children - 0
+pleased_chocolate_pike looked at social_copper_capybara
+
+10/splendid_tomato_louse:
+lifespan - 13
+strength - 2
+children - 0
+splendid_tomato_louse ran
+
+bright_azure_angelfish died
+17/adverse_scarlet_quokka:
+lifespan - 13
+strength - 9
+children - 0
+adverse_scarlet_quokka ate
+
+19/local_purple_sloth:
+lifespan - 13
+strength - 2
+children - 0
+local_purple_sloth looked at splendid_tomato_louse
+
+22/efficient_teal_squid:
+lifespan - 13
+strength - 6
+children - 0
+efficient_teal_squid attacked pleased_chocolate_pike
+
+24/social_copper_capybara:
+lifespan - 13
+strength - 4
+children - 0
+social_copper_capybara looked at local_purple_sloth
+
+===================================================
+State of World
+step: 14: food - 101
+
+4/pleased_chocolate_pike:
+lifespan - 14
+strength - 3
+children - 0
+pleased_chocolate_pike ate
+
+10/splendid_tomato_louse:
+lifespan - 14
+strength - 1
+children - 0
+splendid_tomato_louse looked at pleased_chocolate_pike
+
+17/adverse_scarlet_quokka:
+lifespan - 14
+strength - 10
+children - 0
+adverse_scarlet_quokka attacked adverse_scarlet_quokka
+
+19/local_purple_sloth:
+lifespan - 14
+strength - 1
+children - 0
+local_purple_sloth ran
+
+22/efficient_teal_squid:
+lifespan - 14
+strength - 11
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 14
+strength - 3
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 15: food - 108
+
+4/pleased_chocolate_pike:
+lifespan - 15
+strength - 4
+children - 0
+pleased_chocolate_pike ate
+
+splendid_tomato_louse died
+17/adverse_scarlet_quokka:
+lifespan - 15
+strength - 9
+children - 0
+adverse_scarlet_quokka ate
+
+local_purple_sloth died
+22/efficient_teal_squid:
+lifespan - 15
+strength - 12
+children - 0
+efficient_teal_squid attacked pleased_chocolate_pike
+
+24/social_copper_capybara:
+lifespan - 15
+strength - 4
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 16: food - 115
+
+pleased_chocolate_pike died
+17/adverse_scarlet_quokka:
+lifespan - 16
+strength - 10
+children - 0
+adverse_scarlet_quokka looked at efficient_teal_squid
+
+22/efficient_teal_squid:
+lifespan - 16
+strength - 17
+children - 0
+efficient_teal_squid ran
+
+24/social_copper_capybara:
+lifespan - 16
+strength - 5
+children - 0
+
+===================================================
+State of World
+step: 17: food - 125
+
+17/adverse_scarlet_quokka:
+lifespan - 17
+strength - 9
+children - 0
+adverse_scarlet_quokka ate
+
+22/efficient_teal_squid:
+lifespan - 17
+strength - 16
+children - 0
+efficient_teal_squid looked at adverse_scarlet_quokka
+
+24/social_copper_capybara:
+lifespan - 17
+strength - 4
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 18: food - 133
+
+17/adverse_scarlet_quokka:
+lifespan - 18
+strength - 10
+children - 0
+adverse_scarlet_quokka ate
+
+22/efficient_teal_squid:
+lifespan - 18
+strength - 15
+children - 0
+efficient_teal_squid attacked adverse_scarlet_quokka
+
+24/social_copper_capybara:
+lifespan - 18
+strength - 5
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 19: food - 141
+
+adverse_scarlet_quokka died
+22/efficient_teal_squid:
+lifespan - 19
+strength - 19
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 19
+strength - 6
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 20: food - 149
+
+22/efficient_teal_squid:
+lifespan - 20
+strength - 20
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 20
+strength - 7
+children - 0
+social_copper_capybara looked at efficient_teal_squid
+
+===================================================
+State of World
+step: 21: food - 158
+
+22/efficient_teal_squid:
+lifespan - 21
+strength - 21
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 21
+strength - 6
+children - 0
+
+===================================================
+State of World
+step: 22: food - 167
+
+22/efficient_teal_squid:
+lifespan - 22
+strength - 22
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 22
+strength - 5
+children - 0
+social_copper_capybara looked at social_copper_capybara
+
+===================================================
+State of World
+step: 23: food - 176
+
+22/efficient_teal_squid:
+lifespan - 23
+strength - 23
+children - 0
+efficient_teal_squid looked at social_copper_capybara
+
+24/social_copper_capybara:
+lifespan - 23
+strength - 4
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 24: food - 185
+
+22/efficient_teal_squid:
+lifespan - 24
+strength - 22
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 24
+strength - 5
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 25: food - 193
+
+22/efficient_teal_squid:
+lifespan - 25
+strength - 23
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 25
+strength - 6
+children - 0
+social_copper_capybara looked at efficient_teal_squid
+
+===================================================
+State of World
+step: 26: food - 202
+
+22/efficient_teal_squid:
+lifespan - 26
+strength - 24
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 26
+strength - 5
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 27: food - 210
+
+22/efficient_teal_squid:
+lifespan - 27
+strength - 25
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 27
+strength - 6
+children - 0
+social_copper_capybara looked at social_copper_capybara
+
+===================================================
+State of World
+step: 28: food - 219
+
+22/efficient_teal_squid:
+lifespan - 28
+strength - 26
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 28
+strength - 5
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 29: food - 227
+
+22/efficient_teal_squid:
+lifespan - 29
+strength - 27
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 29
+strength - 6
+children - 0
+social_copper_capybara looked at efficient_teal_squid
+
+===================================================
+State of World
+step: 30: food - 236
+
+22/efficient_teal_squid:
+lifespan - 30
+strength - 28
+children - 0
+efficient_teal_squid ran
+
+24/social_copper_capybara:
+lifespan - 30
+strength - 5
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 31: food - 245
+
+22/efficient_teal_squid:
+lifespan - 31
+strength - 27
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 31
+strength - 6
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 32: food - 253
+
+22/efficient_teal_squid:
+lifespan - 32
+strength - 28
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 32
+strength - 7
+children - 0
+
+===================================================
+State of World
+step: 33: food - 262
+
+22/efficient_teal_squid:
+lifespan - 33
+strength - 29
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 33
+strength - 6
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 34: food - 270
+
+22/efficient_teal_squid:
+lifespan - 34
+strength - 30
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 34
+strength - 7
+children - 0
+social_copper_capybara looked at social_copper_capybara
+
+===================================================
+State of World
+step: 35: food - 279
+
+22/efficient_teal_squid:
+lifespan - 35
+strength - 31
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 35
+strength - 6
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 36: food - 287
+
+22/efficient_teal_squid:
+lifespan - 36
+strength - 32
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 36
+strength - 7
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 37: food - 295
+
+22/efficient_teal_squid:
+lifespan - 37
+strength - 33
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 37
+strength - 8
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 38: food - 303
+
+22/efficient_teal_squid:
+lifespan - 38
+strength - 34
+children - 0
+efficient_teal_squid ate
+
+24/social_copper_capybara:
+lifespan - 38
+strength - 9
+children - 0
+social_copper_capybara ate
+
+===================================================
+State of World
+step: 39: food - 311
+
+22/efficient_teal_squid:
+lifespan - 39
+strength - 35
+children - 0
+efficient_teal_squid attacked social_copper_capybara
+
+social_copper_capybara died
+===================================================
+State of World
+step: 40: food - 321
+
+22/efficient_teal_squid:
+lifespan - 40
+strength - 19
+children - 0
+efficient_teal_squid reproduced
+
+===================================================
+State of World
+step: 41: food - 331
+
+22/efficient_teal_squid:
+lifespan - 41
+strength - 8
+children - 1
+
+30/tan_sapphire_jellyfish:
+lifespan - 0
+strength - 4
+children - 0
+tan_sapphire_jellyfish attacked efficient_teal_squid
+
+===================================================
+State of World
+step: 42: food - 341
+
+22/efficient_teal_squid:
+lifespan - 42
+strength - 3
+children - 1
+efficient_teal_squid attacked social_copper_capybara
+
+30/tan_sapphire_jellyfish:
+lifespan - 1
+strength - 7
+children - 0
+tan_sapphire_jellyfish ran
+
+===================================================
+State of World
+step: 43: food - 351
+
+22/efficient_teal_squid:
+lifespan - 43
+strength - 1
+children - 1
+efficient_teal_squid attacked social_copper_capybara
+
+30/tan_sapphire_jellyfish:
+lifespan - 2
+strength - 6
+children - 0
+tan_sapphire_jellyfish looked at tan_sapphire_jellyfish
+
+===================================================
+State of World
+step: 44: food - 361
+
+efficient_teal_squid died
+30/tan_sapphire_jellyfish:
+lifespan - 3
+strength - 5
+children - 0
+tan_sapphire_jellyfish looked at efficient_teal_squid
+
+===================================================
+State of World
+step: 45: food - 371
+
+30/tan_sapphire_jellyfish:
+lifespan - 4
+strength - 4
+children - 0
+tan_sapphire_jellyfish ran
+
+===================================================
+State of World
+step: 46: food - 381
+
+30/tan_sapphire_jellyfish:
+lifespan - 5
+strength - 3
+children - 0
+tan_sapphire_jellyfish ran
+
+===================================================
+State of World
+step: 47: food - 391
+
+30/tan_sapphire_jellyfish:
+lifespan - 6
+strength - 2
+children - 0
+tan_sapphire_jellyfish ran
+
+===================================================
+State of World
+step: 48: food - 401
+
+30/tan_sapphire_jellyfish:
+lifespan - 7
+strength - 1
+children - 0
+tan_sapphire_jellyfish looked at tan_sapphire_jellyfish
+
+===================================================
+State of World
+step: 49: food - 411
+
+tan_sapphire_jellyfish died
+===================================================
+State of World
+step: 50: food - 421
+
+===================================================
+State of World
+step: 51: food - 431
+
+===================================================
+State of World
+step: 52: food - 441
+
+===================================================
+State of World
+step: 53: food - 451
+
+===================================================
+State of World
+step: 54: food - 461
+
+===================================================
+State of World
+step: 55: food - 471
+
+===================================================
+State of World
+step: 56: food - 481
+
+===================================================
+State of World
+step: 57: food - 491
+
+===================================================
+State of World
+step: 58: food - 501
+
+===================================================
+State of World
+step: 59: food - 511
+
+===================================================
+State of World
+step: 60: food - 521
+
+===================================================
+State of World
+step: 61: food - 531
+
+===================================================
+State of World
+step: 62: food - 541
+
+===================================================
+State of World
+step: 63: food - 551
+
+===================================================
+State of World
+step: 64: food - 561
+
+===================================================
+State of World
+step: 65: food - 571
+
+===================================================
+State of World
+step: 66: food - 581
+
+===================================================
+State of World
+step: 67: food - 591
+
+===================================================
+State of World
+step: 68: food - 601
+
+===================================================
+State of World
+step: 69: food - 611
+
+===================================================
+State of World
+step: 70: food - 621
+
+===================================================
+State of World
+step: 71: food - 631
+
+===================================================
+State of World
+step: 72: food - 641
+
+===================================================
+State of World
+step: 73: food - 651
+
+===================================================
+State of World
+step: 74: food - 661
+
+===================================================
+State of World
+step: 75: food - 671
+
+===================================================
+State of World
+step: 76: food - 681
+
+===================================================
+State of World
+step: 77: food - 691
+
+===================================================
+State of World
+step: 78: food - 701
+
+===================================================
+State of World
+step: 79: food - 711
+
+===================================================
+State of World
+step: 80: food - 721
+
+===================================================
+State of World
+step: 81: food - 731
+
+===================================================
+State of World
+step: 82: food - 741
+
+===================================================
+State of World
+step: 83: food - 751
+
+===================================================
+State of World
+step: 84: food - 761
+
+===================================================
+State of World
+step: 85: food - 771
+
+===================================================
+State of World
+step: 86: food - 781
+
+===================================================
+State of World
+step: 87: food - 791
+
+===================================================
+State of World
+step: 88: food - 801
+
+===================================================
+State of World
+step: 89: food - 811
+
+===================================================
+State of World
+step: 90: food - 821
+
+===================================================
+State of World
+step: 91: food - 831
+
+===================================================
+State of World
+step: 92: food - 841
+
+===================================================
+State of World
+step: 93: food - 851
+
+===================================================
+State of World
+step: 94: food - 861
+
+===================================================
+State of World
+step: 95: food - 871
+
+===================================================
+State of World
+step: 96: food - 881
+
+===================================================
+State of World
+step: 97: food - 891
+
+===================================================
+State of World
+step: 98: food - 901
+
+===================================================
+State of World
+step: 99: food - 911
+
+===================================================
+State of World
+step: 100: food - 921
+
+===================================================
+State of World
+step: 101: food - 931
+
+===================================================
+State of World
+step: 102: food - 941
+
+===================================================
+State of World
+step: 103: food - 951
+
+===================================================
+State of World
+step: 104: food - 961
+
+===================================================
+State of World
+step: 105: food - 971
+
+===================================================
+State of World
+step: 106: food - 981
+
+===================================================
+State of World
+step: 107: food - 991
+
+===================================================
+State of World
+step: 108: food - 1001
+
+===================================================
+State of World
+step: 109: food - 1011
+
+===================================================
+State of World
+step: 110: food - 1021
+
+===================================================
+State of World
+step: 111: food - 1031
+
+===================================================
+State of World
+step: 112: food - 1041
+
+===================================================
+State of World
+step: 113: food - 1051
+
+===================================================
+State of World
+step: 114: food - 1061
+
+===================================================
+State of World
+step: 115: food - 1071
+
+===================================================
+State of World
+step: 116: food - 1081
+
+===================================================
+State of World
+step: 117: food - 1091
+
+===================================================
+State of World
+step: 118: food - 1101
+
+===================================================
+State of World
+step: 119: food - 1111
+
+===================================================
+State of World
+step: 120: food - 1121
+
+===================================================
+State of World
+step: 121: food - 1131
+
+===================================================
+State of World
+step: 122: food - 1141
+
+===================================================
+State of World
+step: 123: food - 1151
+
+===================================================
+State of World
+step: 124: food - 1161
+
+===================================================
+State of World
+step: 125: food - 1171
+
+===================================================
+State of World
+step: 126: food - 1181
+
+===================================================
+State of World
+step: 127: food - 1191
+
+===================================================
+State of World
+step: 128: food - 1201
+
+===================================================
+State of World
+step: 129: food - 1211
+
+===================================================
+State of World
+step: 130: food - 1221
+
+===================================================
+State of World
+step: 131: food - 1231
+
+===================================================
+State of World
+step: 132: food - 1241
+
+===================================================
+State of World
+step: 133: food - 1251
+
+===================================================
+State of World
+step: 134: food - 1261
+
+===================================================
+State of World
+step: 135: food - 1271
+
+===================================================
+State of World
+step: 136: food - 1281
+
+===================================================
+State of World
+step: 137: food - 1291
+
+===================================================
+State of World
+step: 138: food - 1301
+
+===================================================
+State of World
+step: 139: food - 1311
+
+===================================================
+State of World
+step: 140: food - 1321
+
+===================================================
+State of World
+step: 141: food - 1331
+
+===================================================
+State of World
+step: 142: food - 1341
+
+===================================================
+State of World
+step: 143: food - 1351
+
+===================================================
+State of World
+step: 144: food - 1361
+
+===================================================
+State of World
+step: 145: food - 1371
+
+===================================================
+State of World
+step: 146: food - 1381
+
+===================================================
+State of World
+step: 147: food - 1391
+
+===================================================
+State of World
+step: 148: food - 1401
+
+===================================================
+State of World
+step: 149: food - 1411
+
+===================================================
+State of World
+step: 150: food - 1421
+
+===================================================
+State of World
+step: 151: food - 1431
+
+===================================================
+State of World
+step: 152: food - 1441
+
+===================================================
+State of World
+step: 153: food - 1451
+
+===================================================
+State of World
+step: 154: food - 1461
+
+===================================================
+State of World
+step: 155: food - 1471
+
+===================================================
+State of World
+step: 156: food - 1481
+
+===================================================
+State of World
+step: 157: food - 1491
+
+===================================================
+State of World
+step: 158: food - 1501
+
+===================================================
+State of World
+step: 159: food - 1511
+
+===================================================
+State of World
+step: 160: food - 1521
+
+===================================================
+State of World
+step: 161: food - 1531
+
+===================================================
+State of World
+step: 162: food - 1541
+
+===================================================
+State of World
+step: 163: food - 1551
+
+===================================================
+State of World
+step: 164: food - 1561
+
+===================================================
+State of World
+step: 165: food - 1571
+
+===================================================
+State of World
+step: 166: food - 1581
+
+===================================================
+State of World
+step: 167: food - 1591
+
+===================================================
+State of World
+step: 168: food - 1601
+
+===================================================
+State of World
+step: 169: food - 1611
+
+===================================================
+State of World
+step: 170: food - 1621
+
+===================================================
+State of World
+step: 171: food - 1631
+
+===================================================
+State of World
+step: 172: food - 1641
+
+===================================================
+State of World
+step: 173: food - 1651
+
+===================================================
+State of World
+step: 174: food - 1661
+
+===================================================
+State of World
+step: 175: food - 1671
+
+===================================================
+State of World
+step: 176: food - 1681
+
+===================================================
+State of World
+step: 177: food - 1691
+
+===================================================
+State of World
+step: 178: food - 1701
+
+===================================================
+State of World
+step: 179: food - 1711
+
+===================================================
+State of World
+step: 180: food - 1721
+
+===================================================
+State of World
+step: 181: food - 1731
+
+===================================================
+State of World
+step: 182: food - 1741
+
+===================================================
+State of World
+step: 183: food - 1751
+
+===================================================
+State of World
+step: 184: food - 1761
+
+===================================================
+State of World
+step: 185: food - 1771
+
+===================================================
+State of World
+step: 186: food - 1781
+
+===================================================
+State of World
+step: 187: food - 1791
+
+===================================================
+State of World
+step: 188: food - 1801
+
+===================================================
+State of World
+step: 189: food - 1811
+
+===================================================
+State of World
+step: 190: food - 1821
+
+===================================================
+State of World
+step: 191: food - 1831
+
+===================================================
+State of World
+step: 192: food - 1841
+
+===================================================
+State of World
+step: 193: food - 1851
+
+===================================================
+State of World
+step: 194: food - 1861
+
+===================================================
+State of World
+step: 195: food - 1871
+
+===================================================
+State of World
+step: 196: food - 1881
+
+===================================================
+State of World
+step: 197: food - 1891
+
+===================================================
+State of World
+step: 198: food - 1901
+
+===================================================
+State of World
+step: 199: food - 1911
+
+===================================================
+State of World
+step: 200: food - 1921
+
+===================================================
+State of World
+step: 201: food - 1931
+
+===================================================
+State of World
+step: 202: food - 1941
+
+===================================================
+State of World
+step: 203: food - 1951
+
+===================================================
+State of World
+step: 204: food - 1961
+
+===================================================
+State of World
+step: 205: food - 1971
+
+===================================================
+State of World
+step: 206: food - 1981
+
+===================================================
+State of World
+step: 207: food - 1991
+
+===================================================
+State of World
+step: 208: food - 2001
+
+===================================================
+State of World
+step: 209: food - 2011
+
+===================================================
+State of World
+step: 210: food - 2021
+
+===================================================
+State of World
+step: 211: food - 2031
+
+===================================================
+State of World
+step: 212: food - 2041
+
+===================================================
+State of World
+step: 213: food - 2051
+
+===================================================
+State of World
+step: 214: food - 2061
+
+===================================================
+State of World
+step: 215: food - 2071
+
+===================================================
+State of World
+step: 216: food - 2081
+
+===================================================
+State of World
+step: 217: food - 2091
+
+===================================================
+State of World
+step: 218: food - 2101
+
+===================================================
+State of World
+step: 219: food - 2111
+
+===================================================
+State of World
+step: 220: food - 2121
+
+===================================================
+State of World
+step: 221: food - 2131
+
+===================================================
+State of World
+step: 222: food - 2141
+
+===================================================
+State of World
+step: 223: food - 2151
+
+===================================================
+State of World
+step: 224: food - 2161
+
+===================================================
+State of World
+step: 225: food - 2171
+
+===================================================
+State of World
+step: 226: food - 2181
+
+===================================================
+State of World
+step: 227: food - 2191
+
+===================================================
+State of World
+step: 228: food - 2201
+
+===================================================
+State of World
+step: 229: food - 2211
+
+===================================================
+State of World
+step: 230: food - 2221
+
+===================================================
+State of World
+step: 231: food - 2231
+
+===================================================
+State of World
+step: 232: food - 2241
+
+===================================================
+State of World
+step: 233: food - 2251
+
+===================================================
+State of World
+step: 234: food - 2261
+
+===================================================
+State of World
+step: 235: food - 2271
+
+===================================================
+State of World
+step: 236: food - 2281
+
+===================================================
+State of World
+step: 237: food - 2291
+
+===================================================
+State of World
+step: 238: food - 2301
+
+===================================================
+State of World
+step: 239: food - 2311
+
+===================================================
+State of World
+step: 240: food - 2321
+
+===================================================
+State of World
+step: 241: food - 2331
+
+===================================================
+State of World
+step: 242: food - 2341
+
+===================================================
+State of World
+step: 243: food - 2351
+
+===================================================
+State of World
+step: 244: food - 2361
+
+===================================================
+State of World
+step: 245: food - 2371
+
+===================================================
+State of World
+step: 246: food - 2381
+
+===================================================
+State of World
+step: 247: food - 2391
+
+===================================================
+State of World
+step: 248: food - 2401
+
+===================================================
+State of World
+step: 249: food - 2411
+
+===================================================
+State of World
+step: 250: food - 2421
+
+===================================================
+State of World
+step: 251: food - 2431
+
+===================================================
+State of World
+step: 252: food - 2441
+
+===================================================
+State of World
+step: 253: food - 2451
+
+===================================================
+State of World
+step: 254: food - 2461
+
+===================================================
+State of World
+step: 255: food - 2471
+
+===================================================
+State of World
+step: 256: food - 2481
+
+===================================================
+State of World
+step: 257: food - 2491
+
+===================================================
+State of World
+step: 258: food - 2501
+
+===================================================
+State of World
+step: 259: food - 2511
+
+===================================================
+State of World
+step: 260: food - 2521
+
+===================================================
+State of World
+step: 261: food - 2531
+
+===================================================
+State of World
+step: 262: food - 2541
+
+===================================================
+State of World
+step: 263: food - 2551
+
+===================================================
+State of World
+step: 264: food - 2561
+
+===================================================
+State of World
+step: 265: food - 2571
+
+===================================================
+State of World
+step: 266: food - 2581
+
+===================================================
+State of World
+step: 267: food - 2591
+
+===================================================
+State of World
+step: 268: food - 2601
+
+===================================================
+State of World
+step: 269: food - 2611
+
+===================================================
+State of World
+step: 270: food - 2621
+
+===================================================
+State of World
+step: 271: food - 2631
+
+===================================================
+State of World
+step: 272: food - 2641
+
+===================================================
+State of World
+step: 273: food - 2651
+
+===================================================
+State of World
+step: 274: food - 2661
+
+===================================================
+State of World
+step: 275: food - 2671
+
+===================================================
+State of World
+step: 276: food - 2681
+
+===================================================
+State of World
+step: 277: food - 2691
+
+===================================================
+State of World
+step: 278: food - 2701
+
+===================================================
+State of World
+step: 279: food - 2711
+
+===================================================
+State of World
+step: 280: food - 2721
+
+===================================================
+State of World
+step: 281: food - 2731
+
+===================================================
+State of World
+step: 282: food - 2741
+
+===================================================
+State of World
+step: 283: food - 2751
+
+===================================================
+State of World
+step: 284: food - 2761
+
+===================================================
+State of World
+step: 285: food - 2771
+
+===================================================
+State of World
+step: 286: food - 2781
+
+===================================================
+State of World
+step: 287: food - 2791
+
+===================================================
+State of World
+step: 288: food - 2801
+
+===================================================
+State of World
+step: 289: food - 2811
+
+===================================================
+State of World
+step: 290: food - 2821
+
+===================================================
+State of World
+step: 291: food - 2831
+
+===================================================
+State of World
+step: 292: food - 2841
+
+===================================================
+State of World
+step: 293: food - 2851
+
+===================================================
+State of World
+step: 294: food - 2861
+
+===================================================
+State of World
+step: 295: food - 2871
+
+===================================================
+State of World
+step: 296: food - 2881
+
+===================================================
+State of World
+step: 297: food - 2891
+
+===================================================
+State of World
+step: 298: food - 2901
+
+===================================================
+State of World
+step: 299: food - 2911
+
+===================================================
+State of World
+step: 300: food - 2921
+
+===================================================
+State of World
+step: 301: food - 2931
+
+===================================================
+State of World
+step: 302: food - 2941
+
+===================================================
+State of World
+step: 303: food - 2951
+
+===================================================
+State of World
+step: 304: food - 2961
+
+===================================================
+State of World
+step: 305: food - 2971
+
+===================================================
+State of World
+step: 306: food - 2981
+
+===================================================
+State of World
+step: 307: food - 2991
+
+===================================================
+State of World
+step: 308: food - 3001
+
+===================================================
+State of World
+step: 309: food - 3011
+
+===================================================
+State of World
+step: 310: food - 3021
+
+===================================================
+State of World
+step: 311: food - 3031
+
+===================================================
+State of World
+step: 312: food - 3041
+
+===================================================
+State of World
+step: 313: food - 3051
+
+===================================================
+State of World
+step: 314: food - 3061
+
+===================================================
+State of World
+step: 315: food - 3071
+
+===================================================
+State of World
+step: 316: food - 3081
+
+===================================================
+State of World
+step: 317: food - 3091
+
+===================================================
+State of World
+step: 318: food - 3101
+
+===================================================
+State of World
+step: 319: food - 3111
+
+===================================================
+State of World
+step: 320: food - 3121
+
+===================================================
+State of World
+step: 321: food - 3131
+
+===================================================
+State of World
+step: 322: food - 3141
+
+===================================================
+State of World
+step: 323: food - 3151
+
+===================================================
+State of World
+step: 324: food - 3161
+
+===================================================
+State of World
+step: 325: food - 3171
+
+===================================================
+State of World
+step: 326: food - 3181
+
+===================================================
+State of World
+step: 327: food - 3191
+
+===================================================
+State of World
+step: 328: food - 3201
+
+===================================================
+State of World
+step: 329: food - 3211
+
+===================================================
+State of World
+step: 330: food - 3221
+
+===================================================
+State of World
+step: 331: food - 3231
+
+===================================================
+State of World
+step: 332: food - 3241
+
+===================================================
+State of World
+step: 333: food - 3251
+
+===================================================
+State of World
+step: 334: food - 3261
+
+===================================================
+State of World
+step: 335: food - 3271
+
+===================================================
+State of World
+step: 336: food - 3281
+
+===================================================
+State of World
+step: 337: food - 3291
+
+===================================================
+State of World
+step: 338: food - 3301
+
+===================================================
+State of World
+step: 339: food - 3311
+
+===================================================
+State of World
+step: 340: food - 3321
+
+===================================================
+State of World
+step: 341: food - 3331
+
+===================================================
+State of World
+step: 342: food - 3341
+
+===================================================
+State of World
+step: 343: food - 3351
+
+===================================================
+State of World
+step: 344: food - 3361
+
+===================================================
+State of World
+step: 345: food - 3371
+
+===================================================
+State of World
+step: 346: food - 3381
+
+===================================================
+State of World
+step: 347: food - 3391
+
+===================================================
+State of World
+step: 348: food - 3401
+
+===================================================
+State of World
+step: 349: food - 3411
+
+===================================================
+State of World
+step: 350: food - 3421
+
+===================================================
+State of World
+step: 351: food - 3431
+
+===================================================
+State of World
+step: 352: food - 3441
+
+===================================================
+State of World
+step: 353: food - 3451
+
+===================================================
+State of World
+step: 354: food - 3461
+
+===================================================
+State of World
+step: 355: food - 3471
+
+===================================================
+State of World
+step: 356: food - 3481
+
+===================================================
+State of World
+step: 357: food - 3491
+
+===================================================
+State of World
+step: 358: food - 3501
+
+===================================================
+State of World
+step: 359: food - 3511
+
+===================================================
+State of World
+step: 360: food - 3521
+
+===================================================
+State of World
+step: 361: food - 3531
+
+===================================================
+State of World
+step: 362: food - 3541
+
+===================================================
+State of World
+step: 363: food - 3551
+
+===================================================
+State of World
+step: 364: food - 3561
+
+===================================================
+State of World
+step: 365: food - 3571
+
+===================================================
+State of World
+step: 366: food - 3581
+
+===================================================
+State of World
+step: 367: food - 3591
+
+===================================================
+State of World
+step: 368: food - 3601
+
+===================================================
+State of World
+step: 369: food - 3611
+
+===================================================
+State of World
+step: 370: food - 3621
+
+===================================================
+State of World
+step: 371: food - 3631
+
+===================================================
+State of World
+step: 372: food - 3641
+
+===================================================
+State of World
+step: 373: food - 3651
+
+===================================================
+State of World
+step: 374: food - 3661
+
+===================================================
+State of World
+step: 375: food - 3671
+
+===================================================
+State of World
+step: 376: food - 3681
+
+===================================================
+State of World
+step: 377: food - 3691
+
+===================================================
+State of World
+step: 378: food - 3701
+
+===================================================
+State of World
+step: 379: food - 3711
+
+===================================================
+State of World
+step: 380: food - 3721
+
+===================================================
+State of World
+step: 381: food - 3731
+
+===================================================
+State of World
+step: 382: food - 3741
+
+===================================================
+State of World
+step: 383: food - 3751
+
+===================================================
+State of World
+step: 384: food - 3761
+
+===================================================
+State of World
+step: 385: food - 3771
+
+===================================================
+State of World
+step: 386: food - 3781
+
+===================================================
+State of World
+step: 387: food - 3791
+
+===================================================
+State of World
+step: 388: food - 3801
+
+===================================================
+State of World
+step: 389: food - 3811
+
+===================================================
+State of World
+step: 390: food - 3821
+
+===================================================
+State of World
+step: 391: food - 3831
+
+===================================================
+State of World
+step: 392: food - 3841
+
+===================================================
+State of World
+step: 393: food - 3851
+
+===================================================
+State of World
+step: 394: food - 3861
+
+===================================================
+State of World
+step: 395: food - 3871
+
+===================================================
+State of World
+step: 396: food - 3881
+
+===================================================
+State of World
+step: 397: food - 3891
+
+===================================================
+State of World
+step: 398: food - 3901
+
+===================================================
+State of World
+step: 399: food - 3911
+
+===================================================
+State of World
+step: 400: food - 3921
+
+===================================================
+State of World
+step: 401: food - 3931
+
+===================================================
+State of World
+step: 402: food - 3941
+
+===================================================
+State of World
+step: 403: food - 3951
+
+===================================================
+State of World
+step: 404: food - 3961
+
+===================================================
+State of World
+step: 405: food - 3971
+
+===================================================
+State of World
+step: 406: food - 3981
+
+===================================================
+State of World
+step: 407: food - 3991
+
+===================================================
+State of World
+step: 408: food - 4001
+
+===================================================
+State of World
+step: 409: food - 4011
+
+===================================================
+State of World
+step: 410: food - 4021
+
+===================================================
+State of World
+step: 411: food - 4031
+
+===================================================
+State of World
+step: 412: food - 4041
+
+===================================================
+State of World
+step: 413: food - 4051
+
+===================================================
+State of World
+step: 414: food - 4061
+
+===================================================
+State of World
+step: 415: food - 4071
+
+===================================================
+State of World
+step: 416: food - 4081
+
+===================================================
+State of World
+step: 417: food - 4091
+
+===================================================
+State of World
+step: 418: food - 4101
+
+===================================================
+State of World
+step: 419: food - 4111
+
+===================================================
+State of World
+step: 420: food - 4121
+
+===================================================
+State of World
+step: 421: food - 4131
+
+===================================================
+State of World
+step: 422: food - 4141
+
+===================================================
+State of World
+step: 423: food - 4151
+
+===================================================
+State of World
+step: 424: food - 4161
+
+===================================================
+State of World
+step: 425: food - 4171
+
+===================================================
+State of World
+step: 426: food - 4181
+
+===================================================
+State of World
+step: 427: food - 4191
+
+===================================================
+State of World
+step: 428: food - 4201
+
+===================================================
+State of World
+step: 429: food - 4211
+
+===================================================
+State of World
+step: 430: food - 4221
+
+===================================================
+State of World
+step: 431: food - 4231
+
+===================================================
+State of World
+step: 432: food - 4241
+
+===================================================
+State of World
+step: 433: food - 4251
+
+===================================================
+State of World
+step: 434: food - 4261
+
+===================================================
+State of World
+step: 435: food - 4271
+
+===================================================
+State of World
+step: 436: food - 4281
+
+===================================================
+State of World
+step: 437: food - 4291
+
+===================================================
+State of World
+step: 438: food - 4301
+
+===================================================
+State of World
+step: 439: food - 4311
+
+===================================================
+State of World
+step: 440: food - 4321
+
+===================================================
+State of World
+step: 441: food - 4331
+
+===================================================
+State of World
+step: 442: food - 4341
+
+===================================================
+State of World
+step: 443: food - 4351
+
+===================================================
+State of World
+step: 444: food - 4361
+
+===================================================
+State of World
+step: 445: food - 4371
+
+===================================================
+State of World
+step: 446: food - 4381
+
+===================================================
+State of World
+step: 447: food - 4391
+
+===================================================
+State of World
+step: 448: food - 4401
+
+===================================================
+State of World
+step: 449: food - 4411
+
+===================================================
+State of World
+step: 450: food - 4421
+
+===================================================
+State of World
+step: 451: food - 4431
+
+===================================================
+State of World
+step: 452: food - 4441
+
+===================================================
+State of World
+step: 453: food - 4451
+
+===================================================
+State of World
+step: 454: food - 4461
+
+===================================================
+State of World
+step: 455: food - 4471
+
+===================================================
+State of World
+step: 456: food - 4481
+
+===================================================
+State of World
+step: 457: food - 4491
+
+===================================================
+State of World
+step: 458: food - 4501
+
+===================================================
+State of World
+step: 459: food - 4511
+
+===================================================
+State of World
+step: 460: food - 4521
+
+===================================================
+State of World
+step: 461: food - 4531
+
+===================================================
+State of World
+step: 462: food - 4541
+
+===================================================
+State of World
+step: 463: food - 4551
+
+===================================================
+State of World
+step: 464: food - 4561
+
+===================================================
+State of World
+step: 465: food - 4571
+
+===================================================
+State of World
+step: 466: food - 4581
+
+===================================================
+State of World
+step: 467: food - 4591
+
+===================================================
+State of World
+step: 468: food - 4601
+
+===================================================
+State of World
+step: 469: food - 4611
+
+===================================================
+State of World
+step: 470: food - 4621
+
+===================================================
+State of World
+step: 471: food - 4631
+
+===================================================
+State of World
+step: 472: food - 4641
+
+===================================================
+State of World
+step: 473: food - 4651
+
+===================================================
+State of World
+step: 474: food - 4661
+
+===================================================
+State of World
+step: 475: food - 4671
+
+===================================================
+State of World
+step: 476: food - 4681
+
+===================================================
+State of World
+step: 477: food - 4691
+
+===================================================
+State of World
+step: 478: food - 4701
+
+===================================================
+State of World
+step: 479: food - 4711
+
+===================================================
+State of World
+step: 480: food - 4721
+
+===================================================
+State of World
+step: 481: food - 4731
+
+===================================================
+State of World
+step: 482: food - 4741
+
+===================================================
+State of World
+step: 483: food - 4751
+
+===================================================
+State of World
+step: 484: food - 4761
+
+===================================================
+State of World
+step: 485: food - 4771
+
+===================================================
+State of World
+step: 486: food - 4781
+
+===================================================
+State of World
+step: 487: food - 4791
+
+===================================================
+State of World
+step: 488: food - 4801
+
+===================================================
+State of World
+step: 489: food - 4811
+
+===================================================
+State of World
+step: 490: food - 4821
+
+===================================================
+State of World
+step: 491: food - 4831
+
+===================================================
+State of World
+step: 492: food - 4841
+
+===================================================
+State of World
+step: 493: food - 4851
+
+===================================================
+State of World
+step: 494: food - 4861
+
+===================================================
+State of World
+step: 495: food - 4871
+
+===================================================
+State of World
+step: 496: food - 4881
+
+===================================================
+State of World
+step: 497: food - 4891
+
+===================================================
+State of World
+step: 498: food - 4901
+
+===================================================
+State of World
+step: 499: food - 4911
+
+===================================================
+Longest Living:
+22/efficient_teal_squid:
+lifespan - 44
+strength - 0
+children - 1
+Total Born: 31
